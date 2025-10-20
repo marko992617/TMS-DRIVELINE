@@ -1,0 +1,1831 @@
+[2025-08-29 00:56:08] Pokretanje ažuriranja procenjene kilometraže
+[2025-08-29 00:56:08] Ukupno tura u bazi: 294
+[2025-08-29 00:56:08] Tura sa unloading_loc: 294
+[2025-08-29 00:56:08] Tura bez estimated_km: 292
+[2025-08-29 00:56:08] Pronađeno je 2 tura za obradu
+[2025-08-29 00:56:08] Debug tura ID 383: estimated_km=0, unloading_loc length=59
+[2025-08-29 00:56:08] Debug tura ID 382: estimated_km=0, unloading_loc length=167
+[2025-08-29 00:56:08] Tura 383: parsovani kodovi: 216490, 216608, 215252, 213146, 216613
+[2025-08-29 00:56:08] Tura 383: pronađeno 5 objekata od 5 kodova
+[2025-08-29 00:56:08] Tura 383: pronađeni objekti: 213 146, 215 252, 216 490, 216 608, 216 613
+[2025-08-29 00:56:08] Ažurirano za turu 383: 104 km
+[2025-08-29 00:56:09] Tura 382: parsovani kodovi: 216221, 215288, 216219, 216202, 213634, 216210, 213764, 216220, 215159, 213651, 213624, 213601, 213633, 213142
+[2025-08-29 00:56:09] Tura 382: pronađeno 14 objekata od 14 kodova
+[2025-08-29 00:56:09] Tura 382: pronađeni objekti: 213 142, 213 601, 213 624, 213 633, 213 634, 213 651, 213 764, 215 159, 215 288, 216 202, 216 210, 216 219, 216 220, 216 221
+[2025-08-29 00:56:09] Ažurirano za turu 382: 140 km
+[2025-08-29 00:56:10] Ažuriranje završeno. Ukupno ažurirano: 2 tura
+[2025-08-29 02:24:39] Pokretanje ažuriranja procenjene kilometraže
+[2025-08-29 02:24:39] Kolona 'estimated_km' postoji u tabeli
+[2025-08-29 02:24:39] Ukupno tura u bazi: 294
+[2025-08-29 02:24:39] Tura sa unloading_loc: 290
+[2025-08-29 02:24:39] Tura bez estimated_km: 290
+[2025-08-29 02:24:39] Pronađeno je 0 tura za obradu
+[2025-08-29 02:24:39] Ažuriranje završeno. Ukupno ažurirano: 0 tura
+[2025-08-29 02:26:17] Pokretanje ažuriranja procenjene kilometraže
+[2025-08-29 02:26:17] Kolona 'estimated_km' postoji u tabeli
+[2025-08-29 02:26:17] Ukupno tura u bazi: 294
+[2025-08-29 02:26:17] Tura sa unloading_loc: 290
+[2025-08-29 02:26:17] Tura bez estimated_km: 290
+[2025-08-29 02:26:17] Pronađeno je 104 tura za obradu
+[2025-08-29 02:26:17] Debug tura ID 381: estimated_km=0, unloading_loc length=131
+[2025-08-29 02:26:17] Debug tura ID 380: estimated_km=0, unloading_loc length=141
+[2025-08-29 02:26:17] Debug tura ID 377: estimated_km=0, unloading_loc length=47
+[2025-08-29 02:26:17] Tura 381: parsovani kodovi: 216873, 213122, 213121, 213123, 215045, 215076, 215420, 216670, 216671, 216708, 216921
+[2025-08-29 02:26:17] Tura 381: pronađeno 11 objekata od 11 kodova
+[2025-08-29 02:26:17] Tura 381: pronađeni objekti: 213 121, 213 122, 213 123, 215 045, 215 076, 215 420, 216 670, 216 671, 216 708, 216 873, 216 921
+[2025-08-29 02:26:17] Uspešno ažurirano za turu 381: 106 km
+[2025-08-29 02:26:17] Verifikacija - tura 381 ima estimated_km: 106
+[2025-08-29 02:26:18] Tura 380: parsovani kodovi: 213186, 216684, 216449, 216402, 213603, 213602, 215215, 213608, 213605, 213604, 213609
+[2025-08-29 02:26:18] Tura 380: pronađeno 11 objekata od 11 kodova
+[2025-08-29 02:26:18] Tura 380: pronađeni objekti: 213 186, 213 602, 213 603, 213 604, 213 605, 213 608, 213 609, 215 215, 216 402, 216 449, 216 684
+[2025-08-29 02:26:18] Uspešno ažurirano za turu 380: 180 km
+[2025-08-29 02:26:18] Verifikacija - tura 380 ima estimated_km: 180
+[2025-08-29 02:26:19] Tura 377: parsovani kodovi: 213160, 213130, 215088, 215096
+[2025-08-29 02:26:19] Tura 377: pronađeno 4 objekata od 4 kodova
+[2025-08-29 02:26:19] Tura 377: pronađeni objekti: 213 130, 213 160, 215 088, 215 096
+[2025-08-29 02:26:19] Uspešno ažurirano za turu 377: 168 km
+[2025-08-29 02:26:19] Verifikacija - tura 377 ima estimated_km: 168
+[2025-08-29 02:26:20] Tura 379: parsovani kodovi: 213934
+[2025-08-29 02:26:20] Tura 379: pronađeno 0 objekata od 1 kodova
+[2025-08-29 02:26:20] Tura 379: nedostaju objekti: 213934
+[2025-08-29 02:26:20] Nije moguće izračunati kilometražu za turu 379 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-08-29 02:26:21] Tura 378: parsovani kodovi: 215047, 213149, 216211, 215083, 213722, 216222, 216208, 213226, 213140
+[2025-08-29 02:26:21] Tura 378: pronađeno 8 objekata od 9 kodova
+[2025-08-29 02:26:21] Tura 378: pronađeni objekti: 213 140, 213 149, 213 722, 215 047, 215 083, 216 208, 216 211, 216 222
+[2025-08-29 02:26:21] Tura 378: nedostaju objekti: 215047, 213149, 216211, 215083, 213722, 216222, 216208, 213226, 213140
+[2025-08-29 02:26:21] Uspešno ažurirano za turu 378: 152 km
+[2025-08-29 02:26:21] Verifikacija - tura 378 ima estimated_km: 152
+[2025-08-29 02:26:22] Tura 375: parsovani kodovi: 216208, 214001, 216218, 216986, 216501, 213194, 213624, 213651, 216603, 216267, 213178, 216207, 213636
+[2025-08-29 02:26:22] Tura 375: pronađeno 13 objekata od 13 kodova
+[2025-08-29 02:26:22] Tura 375: pronađeni objekti: 213 178, 213 194, 213 624, 213 636, 213 651, 214 001, 216 207, 216 208, 216 218, 216 267, 216 501, 216 603, 216 986
+[2025-08-29 02:26:23] Uspešno ažurirano za turu 375: 120 km
+[2025-08-29 02:26:23] Verifikacija - tura 375 ima estimated_km: 120
+[2025-08-29 02:26:24] Tura 374: parsovani kodovi: 216496, 213185, 215014, 215006, 216250, 213634, 216996, 215159, 216220, 213194, 213195
+[2025-08-29 02:26:24] Tura 374: pronađeno 11 objekata od 11 kodova
+[2025-08-29 02:26:24] Tura 374: pronađeni objekti: 213 185, 213 194, 213 195, 213 634, 215 006, 215 014, 215 159, 216 220, 216 250, 216 496, 216 996
+[2025-08-29 02:26:24] Uspešno ažurirano za turu 374: 97 km
+[2025-08-29 02:26:24] Verifikacija - tura 374 ima estimated_km: 97
+[2025-08-29 02:26:25] Tura 366: parsovani kodovi: 213198, 213757, 213121, 213132, 213772
+[2025-08-29 02:26:25] Tura 366: pronađeno 5 objekata od 5 kodova
+[2025-08-29 02:26:25] Tura 366: pronađeni objekti: 213 121, 213 132, 213 198, 213 757, 213 772
+[2025-08-29 02:26:25] Uspešno ažurirano za turu 366: 98 km
+[2025-08-29 02:26:25] Verifikacija - tura 366 ima estimated_km: 98
+[2025-08-29 02:26:26] Tura 369: parsovani kodovi: 216775, 216764, 213636, 216501
+[2025-08-29 02:26:26] Tura 369: pronađeno 4 objekata od 4 kodova
+[2025-08-29 02:26:26] Tura 369: pronađeni objekti: 213 636, 216 501, 216 764, 216 775
+[2025-08-29 02:26:26] Uspešno ažurirano za turu 369: 86 km
+[2025-08-29 02:26:26] Verifikacija - tura 369 ima estimated_km: 86
+[2025-08-29 02:26:27] Tura 367: parsovani kodovi: 213199, 216507, 213175, 216234, 216675, 216280, 216762, 216326, 213168, 216925, 213793, 216910, 213646
+[2025-08-29 02:26:27] Tura 367: pronađeno 13 objekata od 13 kodova
+[2025-08-29 02:26:27] Tura 367: pronađeni objekti: 213 168, 213 175, 213 199, 213 646, 213 793, 216 234, 216 280, 216 326, 216 507, 216 675, 216 762, 216 910, 216 925
+[2025-08-29 02:26:27] Uspešno ažurirano za turu 367: 256 km
+[2025-08-29 02:26:27] Verifikacija - tura 367 ima estimated_km: 256
+[2025-08-29 02:26:28] Tura 368: parsovani kodovi: 216248, 216381, 216237, 216223, 215024, 213630, 213631, 213600, 213141, 216763, 213679, 216870, 213104, 213697, 216514, 216985
+[2025-08-29 02:26:28] Tura 368: pronađeno 16 objekata od 16 kodova
+[2025-08-29 02:26:28] Tura 368: pronađeni objekti: 213 104, 213 141, 213 600, 213 630, 213 631, 213 679, 213 697, 215 024, 216 223, 216 237, 216 248, 216 381, 216 514, 216 763, 216 870, 216 985
+[2025-08-29 02:26:29] Uspešno ažurirano za turu 368: 153 km
+[2025-08-29 02:26:29] Verifikacija - tura 368 ima estimated_km: 153
+[2025-08-29 02:26:30] Tura 351: parsovani kodovi: 213776, 213636, 216608, 213196, 213142, 213115
+[2025-08-29 02:26:30] Tura 351: pronađeno 6 objekata od 6 kodova
+[2025-08-29 02:26:30] Tura 351: pronađeni objekti: 213 115, 213 142, 213 196, 213 636, 213 776, 216 608
+[2025-08-29 02:26:30] Uspešno ažurirano za turu 351: 117 km
+[2025-08-29 02:26:30] Verifikacija - tura 351 ima estimated_km: 117
+[2025-08-29 02:26:31] Tura 353: parsovani kodovi: 213764, 216501, 216218, 216986, 215138, 215191, 213140, 213615
+[2025-08-29 02:26:31] Tura 353: pronađeno 8 objekata od 8 kodova
+[2025-08-29 02:26:31] Tura 353: pronađeni objekti: 213 140, 213 615, 213 764, 215 138, 215 191, 216 218, 216 501, 216 986
+[2025-08-29 02:26:31] Uspešno ažurirano za turu 353: 162 km
+[2025-08-29 02:26:31] Verifikacija - tura 353 ima estimated_km: 162
+[2025-08-29 02:26:32] Tura 349: parsovani kodovi: 213766, 213159, 213140, 215122, 216960, 213165, 213155, 213622, 213226, 215078, 213289, 213246, 213614, 213615
+[2025-08-29 02:26:32] Tura 349: pronađeno 13 objekata od 14 kodova
+[2025-08-29 02:26:32] Tura 349: pronađeni objekti: 213 140, 213 155, 213 159, 213 165, 213 246, 213 289, 213 614, 213 615, 213 622, 213 766, 215 078, 215 122, 216 960
+[2025-08-29 02:26:32] Tura 349: nedostaju objekti: 213766, 213159, 213140, 215122, 216960, 213165, 213155, 213622, 213226, 215078, 213289, 213246, 213614, 213615
+[2025-08-29 02:26:32] Uspešno ažurirano za turu 349: 302 km
+[2025-08-29 02:26:32] Verifikacija - tura 349 ima estimated_km: 302
+[2025-08-29 02:26:33] Tura 350: parsovani kodovi: 216240, 215056, 213666, 215031, 215100, 216229, 215047, 213696, 213744, 213769, 213145
+[2025-08-29 02:26:33] Tura 350: pronađeno 11 objekata od 11 kodova
+[2025-08-29 02:26:33] Tura 350: pronađeni objekti: 213 145, 213 666, 213 696, 213 744, 213 769, 215 031, 215 047, 215 056, 215 100, 216 229, 216 240
+[2025-08-29 02:26:33] Uspešno ažurirano za turu 350: 105 km
+[2025-08-29 02:26:33] Verifikacija - tura 350 ima estimated_km: 105
+[2025-08-29 02:26:34] Tura 352: parsovani kodovi: 213764, 216304, 215014, 215160, 213636, 216219, 213221, 213195, 215224
+[2025-08-29 02:26:34] Tura 352: pronađeno 9 objekata od 9 kodova
+[2025-08-29 02:26:34] Tura 352: pronađeni objekti: 213 195, 213 221, 213 636, 213 764, 215 014, 215 160, 215 224, 216 219, 216 304
+[2025-08-29 02:26:35] Uspešno ažurirano za turu 352: 128 km
+[2025-08-29 02:26:35] Verifikacija - tura 352 ima estimated_km: 128
+[2025-08-29 02:26:36] Tura 348: parsovani kodovi: 213514, 213345, 213455, 213340, 213342, 213474, 213343, 213412, 214007
+[2025-08-29 02:26:36] Tura 348: pronađeno 9 objekata od 9 kodova
+[2025-08-29 02:26:36] Tura 348: pronađeni objekti: 213 340, 213 342, 213 343, 213 345, 213 412, 213 455, 213 474, 213 514, 214 007
+[2025-08-29 02:26:36] Uspešno ažurirano za turu 348: 775 km
+[2025-08-29 02:26:36] Verifikacija - tura 348 ima estimated_km: 775
+[2025-08-29 02:26:37] Tura 347: parsovani kodovi: 213260, 213222, 213270
+[2025-08-29 02:26:37] Tura 347: pronađeno 3 objekata od 3 kodova
+[2025-08-29 02:26:37] Tura 347: pronađeni objekti: 213 222, 213 260, 213 270
+[2025-08-29 02:26:37] Uspešno ažurirano za turu 347: 324 km
+[2025-08-29 02:26:37] Verifikacija - tura 347 ima estimated_km: 324
+[2025-08-29 02:26:38] Tura 341: parsovani kodovi: 213223, 214004, 213756, 216208
+[2025-08-29 02:26:38] Tura 341: pronađeno 4 objekata od 4 kodova
+[2025-08-29 02:26:38] Tura 341: pronađeni objekti: 213 223, 213 756, 214 004, 216 208
+[2025-08-29 02:26:38] Uspešno ažurirano za turu 341: 105 km
+[2025-08-29 02:26:38] Verifikacija - tura 341 ima estimated_km: 105
+[2025-08-29 02:26:39] Tura 344: parsovani kodovi: 216674, 213198, 213771, 216457, 213169, 216626, 213123, 213132, 216704
+[2025-08-29 02:26:39] Tura 344: pronađeno 9 objekata od 9 kodova
+[2025-08-29 02:26:39] Tura 344: pronađeni objekti: 213 123, 213 132, 213 169, 213 198, 213 771, 216 457, 216 626, 216 674, 216 704
+[2025-08-29 02:26:40] Uspešno ažurirano za turu 344: 121 km
+[2025-08-29 02:26:40] Verifikacija - tura 344 ima estimated_km: 121
+[2025-08-29 02:26:41] Tura 346: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-08-29 02:26:41] Nije moguće izračunati kilometražu za turu 346 sa unloading_loc: TMO 213 AMP
+[2025-08-29 02:26:42] Tura 345: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-08-29 02:26:42] Nije moguće izračunati kilometražu za turu 345 sa unloading_loc: TMO 213 R45
+[2025-08-29 02:26:43] Tura 339: parsovani kodovi: 215136, 213128, 213188, 213773, 216223, 216241, 213630, 213631, 213685, 213627, 216236
+[2025-08-29 02:26:43] Tura 339: pronađeno 11 objekata od 11 kodova
+[2025-08-29 02:26:43] Tura 339: pronađeni objekti: 213 128, 213 188, 213 627, 213 630, 213 631, 213 685, 213 773, 215 136, 216 223, 216 236, 216 241
+[2025-08-29 02:26:43] Uspešno ažurirano za turu 339: 117 km
+[2025-08-29 02:26:43] Verifikacija - tura 339 ima estimated_km: 117
+[2025-08-29 02:26:44] Tura 343: parsovani kodovi: 213150, 216459, 216442, 216873, 213694, 216419, 216901, 213137, 216456, 216413, 216444, 216782, 213122, 213103, 216510, 213121, 216500
+[2025-08-29 02:26:44] Tura 343: pronađeno 17 objekata od 17 kodova
+[2025-08-29 02:26:44] Tura 343: pronađeni objekti: 213 103, 213 121, 213 122, 213 137, 213 150, 213 694, 216 413, 216 419, 216 442, 216 444, 216 456, 216 459, 216 500, 216 510, 216 782, 216 873, 216 901
+[2025-08-29 02:26:44] Uspešno ažurirano za turu 343: 108 km
+[2025-08-29 02:26:44] Verifikacija - tura 343 ima estimated_km: 108
+[2025-08-29 02:26:45] Tura 340: parsovani kodovi: 213164, 216850
+[2025-08-29 02:26:45] Tura 340: pronađeno 2 objekata od 2 kodova
+[2025-08-29 02:26:45] Tura 340: pronađeni objekti: 213 164, 216 850
+[2025-08-29 02:26:45] Uspešno ažurirano za turu 340: 94 km
+[2025-08-29 02:26:45] Verifikacija - tura 340 ima estimated_km: 94
+[2025-08-29 02:26:46] Tura 342: parsovani kodovi: 213321, 213360, 213370, 213366, 213320, 213324, 213322, 213399, 213323, 213312, 213314, 216295, 213452, 213310
+[2025-08-29 02:26:46] Tura 342: pronađeno 13 objekata od 14 kodova
+[2025-08-29 02:26:46] Tura 342: pronađeni objekti: 213 310, 213 312, 213 314, 213 320, 213 321, 213 322, 213 323, 213 324, 213 360, 213 370, 213 399, 213 452, 216 295
+[2025-08-29 02:26:46] Tura 342: nedostaju objekti: 213321, 213360, 213370, 213366, 213320, 213324, 213322, 213399, 213323, 213312, 213314, 216295, 213452, 213310
+[2025-08-29 02:26:46] Uspešno ažurirano za turu 342: 809 km
+[2025-08-29 02:26:46] Verifikacija - tura 342 ima estimated_km: 809
+[2025-08-29 02:26:47] Tura 333: parsovani kodovi: 216505, 216890, 216761, 213125, 213160, 213781, 213130, 213667, 213143, 215088, 215096
+[2025-08-29 02:26:47] Tura 333: pronađeno 11 objekata od 11 kodova
+[2025-08-29 02:26:47] Tura 333: pronađeni objekti: 213 125, 213 130, 213 143, 213 160, 213 667, 213 781, 215 088, 215 096, 216 505, 216 761, 216 890
+[2025-08-29 02:26:48] Uspešno ažurirano za turu 333: 191 km
+[2025-08-29 02:26:48] Verifikacija - tura 333 ima estimated_km: 191
+[2025-08-29 02:26:49] Tura 332: parsovani kodovi: 216239, 216246, 213171, 216488, 213773, 216381, 213179, 216241, 216965, 213119, 213157, 213630, 213631, 213685, 213117, 216750
+[2025-08-29 02:26:49] Tura 332: pronađeno 16 objekata od 16 kodova
+[2025-08-29 02:26:49] Tura 332: pronađeni objekti: 213 117, 213 119, 213 157, 213 171, 213 179, 213 630, 213 631, 213 685, 213 773, 216 239, 216 241, 216 246, 216 381, 216 488, 216 750, 216 965
+[2025-08-29 02:26:49] Uspešno ažurirano za turu 332: 133 km
+[2025-08-29 02:26:49] Verifikacija - tura 332 ima estimated_km: 133
+[2025-08-29 02:26:50] Tura 336: parsovani kodovi: 213934
+[2025-08-29 02:26:50] Tura 336: pronađeno 0 objekata od 1 kodova
+[2025-08-29 02:26:50] Tura 336: nedostaju objekti: 213934
+[2025-08-29 02:26:50] Nije moguće izračunati kilometražu za turu 336 sa unloading_loc: TMO 213 934
+[2025-08-29 02:26:51] Tura 338: nisu pronađeni validni kodovi u: Nova Pazova, NBG
+[2025-08-29 02:26:51] Nije moguće izračunati kilometražu za turu 338 sa unloading_loc: Nova Pazova, NBG
+[2025-08-29 02:26:52] Tura 334: parsovani kodovi: 216334, 213783, 215070, 215066, 213156, 215083, 213722, 213172, 213152, 213653, 213134, 216676, 216487, 215382
+[2025-08-29 02:26:52] Tura 334: pronađeno 14 objekata od 14 kodova
+[2025-08-29 02:26:52] Tura 334: pronađeni objekti: 213 134, 213 152, 213 156, 213 172, 213 653, 213 722, 213 783, 215 066, 215 070, 215 083, 215 382, 216 334, 216 487, 216 676
+[2025-08-29 02:26:52] Uspešno ažurirano za turu 334: 129 km
+[2025-08-29 02:26:52] Verifikacija - tura 334 ima estimated_km: 129
+[2025-08-29 02:26:53] Tura 335: parsovani kodovi: 216225, 215047, 213686, 213696, 216266, 216222, 216208, 213140, 213226
+[2025-08-29 02:26:53] Tura 335: pronađeno 8 objekata od 9 kodova
+[2025-08-29 02:26:53] Tura 335: pronađeni objekti: 213 140, 213 686, 213 696, 215 047, 216 208, 216 222, 216 225, 216 266
+[2025-08-29 02:26:53] Tura 335: nedostaju objekti: 216225, 215047, 213686, 213696, 216266, 216222, 216208, 213140, 213226
+[2025-08-29 02:26:53] Uspešno ažurirano za turu 335: 145 km
+[2025-08-29 02:26:53] Verifikacija - tura 335 ima estimated_km: 145
+[2025-08-29 02:26:54] Tura 337: parsovani kodovi: 213325, 213337, 213420, 213794
+[2025-08-29 02:26:54] Tura 337: pronađeno 4 objekata od 4 kodova
+[2025-08-29 02:26:54] Tura 337: pronađeni objekti: 213 325, 213 337, 213 420, 213 794
+[2025-08-29 02:26:55] Uspešno ažurirano za turu 337: 280 km
+[2025-08-29 02:26:55] Verifikacija - tura 337 ima estimated_km: 280
+[2025-08-29 02:26:56] Tura 331: parsovani kodovi: 216674, 216457, 213771, 215138, 213159, 216208, 213766, 215194, 213148, 213263, 215193, 215044
+[2025-08-29 02:26:56] Tura 331: pronađeno 12 objekata od 12 kodova
+[2025-08-29 02:26:56] Tura 331: pronađeni objekti: 213 148, 213 159, 213 263, 213 766, 213 771, 215 044, 215 138, 215 193, 215 194, 216 208, 216 457, 216 674
+[2025-08-29 02:26:56] Uspešno ažurirano za turu 331: 208 km
+[2025-08-29 02:26:56] Verifikacija - tura 331 ima estimated_km: 208
+[2025-08-29 02:26:57] Tura 327: parsovani kodovi: 215059, 213757, 216873, 213123, 215076, 215045, 215370, 213633, 216534, 213773, 213685
+[2025-08-29 02:26:57] Tura 327: pronađeno 11 objekata od 11 kodova
+[2025-08-29 02:26:57] Tura 327: pronađeni objekti: 213 123, 213 633, 213 685, 213 757, 213 773, 215 045, 215 059, 215 076, 215 370, 216 534, 216 873
+[2025-08-29 02:26:57] Uspešno ažurirano za turu 327: 138 km
+[2025-08-29 02:26:57] Verifikacija - tura 327 ima estimated_km: 138
+[2025-08-29 02:26:58] Tura 326: parsovani kodovi: 213223, 216306, 215233, 213292, 213186, 213354, 213244, 213344, 213502
+[2025-08-29 02:26:58] Tura 326: pronađeno 9 objekata od 9 kodova
+[2025-08-29 02:26:58] Tura 326: pronađeni objekti: 213 186, 213 223, 213 244, 213 292, 213 344, 213 354, 213 502, 215 233, 216 306
+[2025-08-29 02:26:58] Uspešno ažurirano za turu 326: 419 km
+[2025-08-29 02:26:58] Verifikacija - tura 326 ima estimated_km: 419
+[2025-08-29 02:26:59] Tura 330: parsovani kodovi: 213196, 216608, 213219, 213613, 216490, 213744
+[2025-08-29 02:26:59] Tura 330: pronađeno 6 objekata od 6 kodova
+[2025-08-29 02:26:59] Tura 330: pronađeni objekti: 213 196, 213 219, 213 613, 213 744, 216 490, 216 608
+[2025-08-29 02:26:59] Uspešno ažurirano za turu 330: 117 km
+[2025-08-29 02:26:59] Verifikacija - tura 330 ima estimated_km: 117
+[2025-08-29 02:27:00] Tura 328: parsovani kodovi: 216202, 216268, 216496, 215159, 216220, 216267, 216603, 213651, 215160, 215009, 216207, 215069, 213178, 213634, 216501, 213194, 213624, 214001
+[2025-08-29 02:27:00] Tura 328: pronađeno 18 objekata od 18 kodova
+[2025-08-29 02:27:00] Tura 328: pronađeni objekti: 213 178, 213 194, 213 624, 213 634, 213 651, 214 001, 215 009, 215 069, 215 159, 215 160, 216 202, 216 207, 216 220, 216 267, 216 268, 216 496, 216 501, 216 603
+[2025-08-29 02:27:00] Uspešno ažurirano za turu 328: 112 km
+[2025-08-29 02:27:00] Verifikacija - tura 328 ima estimated_km: 112
+[2025-08-29 02:27:01] Tura 329: parsovani kodovi: 216272, 216210, 215014, 216201, 216221, 215288, 216485, 216996, 213109
+[2025-08-29 02:27:01] Tura 329: pronađeno 9 objekata od 9 kodova
+[2025-08-29 02:27:01] Tura 329: pronađeni objekti: 213 109, 215 014, 215 288, 216 201, 216 210, 216 221, 216 272, 216 485, 216 996
+[2025-08-29 02:27:02] Uspešno ažurirano za turu 329: 115 km
+[2025-08-29 02:27:02] Verifikacija - tura 329 ima estimated_km: 115
+[2025-08-29 02:27:03] Tura 314: parsovani kodovi: 214010, 216295, 213310, 213314, 213452, 213355, 213335
+[2025-08-29 02:27:03] Tura 314: pronađeno 7 objekata od 7 kodova
+[2025-08-29 02:27:03] Tura 314: pronađeni objekti: 213 310, 213 314, 213 335, 213 355, 213 452, 214 010, 216 295
+[2025-08-29 02:27:03] Uspešno ažurirano za turu 314: 633 km
+[2025-08-29 02:27:03] Verifikacija - tura 314 ima estimated_km: 633
+[2025-08-29 02:27:04] Tura 315: parsovani kodovi: 216926, 213183, 213629, 215031, 215100, 215073, 216327, 216984, 216534, 216238, 216382, 213114, 213628, 213184, 213762, 213756, 213690, 213774
+[2025-08-29 02:27:04] Tura 315: pronađeno 18 objekata od 18 kodova
+[2025-08-29 02:27:04] Tura 315: pronađeni objekti: 213 114, 213 183, 213 184, 213 628, 213 629, 213 690, 213 756, 213 762, 213 774, 215 031, 215 073, 215 100, 216 238, 216 327, 216 382, 216 534, 216 926, 216 984
+[2025-08-29 02:27:04] Uspešno ažurirano za turu 315: 138 km
+[2025-08-29 02:27:04] Verifikacija - tura 315 ima estimated_km: 138
+[2025-08-29 02:27:05] Tura 306: parsovani kodovi: 213636, 216493, 216248, 213126, 216675
+[2025-08-29 02:27:05] Tura 306: pronađeno 5 objekata od 5 kodova
+[2025-08-29 02:27:05] Tura 306: pronađeni objekti: 213 126, 213 636, 216 248, 216 493, 216 675
+[2025-08-29 02:27:05] Uspešno ažurirano za turu 306: 114 km
+[2025-08-29 02:27:05] Verifikacija - tura 306 ima estimated_km: 114
+[2025-08-29 02:27:06] Tura 307: parsovani kodovi: 216211, 213149, 216201, 213686, 213744, 213769, 213139
+[2025-08-29 02:27:06] Tura 307: pronađeno 7 objekata od 7 kodova
+[2025-08-29 02:27:06] Tura 307: pronađeni objekti: 213 139, 213 149, 213 686, 213 744, 213 769, 216 201, 216 211
+[2025-08-29 02:27:06] Uspešno ažurirano za turu 307: 99 km
+[2025-08-29 02:27:06] Verifikacija - tura 307 ima estimated_km: 99
+[2025-08-29 02:27:07] Tura 305: parsovani kodovi: 213195, 216204, 213636, 215083, 215066, 216218, 216986, 216501, 216267, 213178, 215284, 213699, 213769
+[2025-08-29 02:27:07] Tura 305: pronađeno 13 objekata od 13 kodova
+[2025-08-29 02:27:07] Tura 305: pronađeni objekti: 213 178, 213 195, 213 636, 213 699, 213 769, 215 066, 215 083, 215 284, 216 204, 216 218, 216 267, 216 501, 216 986
+[2025-08-29 02:27:08] Uspešno ažurirano za turu 305: 113 km
+[2025-08-29 02:27:08] Verifikacija - tura 305 ima estimated_km: 113
+[2025-08-29 02:27:09] Tura 304: parsovani kodovi: 216221, 215288, 216219, 216202, 213634, 216210, 213764, 215009, 216220, 215159, 213651, 213624, 215013, 215224
+[2025-08-29 02:27:09] Tura 304: pronađeno 14 objekata od 14 kodova
+[2025-08-29 02:27:09] Tura 304: pronađeni objekti: 213 624, 213 634, 213 651, 213 764, 215 009, 215 013, 215 159, 215 224, 215 288, 216 202, 216 210, 216 219, 216 220, 216 221
+[2025-08-29 02:27:09] Uspešno ažurirano za turu 304: 132 km
+[2025-08-29 02:27:09] Verifikacija - tura 304 ima estimated_km: 132
+[2025-08-29 02:27:10] Tura 303: parsovani kodovi: 213483, 213450, 213431, 213421, 213422, 213469, 213472, 213441, 213430, 213495, 214009, 213400, 213419
+[2025-08-29 02:27:10] Tura 303: pronađeno 12 objekata od 13 kodova
+[2025-08-29 02:27:10] Tura 303: pronađeni objekti: 213 400, 213 419, 213 421, 213 430, 213 431, 213 441, 213 450, 213 469, 213 472, 213 483, 213 495, 214 009
+[2025-08-29 02:27:10] Tura 303: nedostaju objekti: 213483, 213450, 213431, 213421, 213422, 213469, 213472, 213441, 213430, 213495, 214009, 213400, 213419
+[2025-08-29 02:27:10] Uspešno ažurirano za turu 303: 997 km
+[2025-08-29 02:27:10] Verifikacija - tura 303 ima estimated_km: 997
+[2025-08-29 02:27:11] Tura 301: parsovani kodovi: 216413, 213272, 213122, 213121, 215076, 213772
+[2025-08-29 02:27:11] Tura 301: pronađeno 6 objekata od 6 kodova
+[2025-08-29 02:27:11] Tura 301: pronađeni objekti: 213 121, 213 122, 213 272, 213 772, 215 076, 216 413
+[2025-08-29 02:27:11] Uspešno ažurirano za turu 301: 83 km
+[2025-08-29 02:27:11] Verifikacija - tura 301 ima estimated_km: 83
+[2025-08-29 02:27:12] Tura 298: parsovani kodovi: 216321, 213774, 216510, 216782, 213123, 216704, 213132, 213647, 213625, 213145, 213142, 213637, 216671, 215420, 213161, 213190, 216670, 216708, 213610
+[2025-08-29 02:27:12] Tura 298: pronađeno 19 objekata od 19 kodova
+[2025-08-29 02:27:12] Tura 298: pronađeni objekti: 213 123, 213 132, 213 142, 213 145, 213 161, 213 190, 213 610, 213 625, 213 637, 213 647, 213 774, 215 420, 216 321, 216 510, 216 670, 216 671, 216 704, 216 708, 216 782
+[2025-08-29 02:27:12] Uspešno ažurirano za turu 298: 124 km
+[2025-08-29 02:27:12] Verifikacija - tura 298 ima estimated_km: 124
+[2025-08-29 02:27:13] Tura 302: parsovani kodovi: 216675, 215141, 213646
+[2025-08-29 02:27:14] Tura 302: pronađeno 3 objekata od 3 kodova
+[2025-08-29 02:27:14] Tura 302: pronađeni objekti: 213 646, 215 141, 216 675
+[2025-08-29 02:27:14] Uspešno ažurirano za turu 302: 157 km
+[2025-08-29 02:27:14] Verifikacija - tura 302 ima estimated_km: 157
+[2025-08-29 02:27:15] Tura 300: parsovani kodovi: 216442, 213756, 213690, 215265, 216803, 213625, 215045, 213652, 213619, 215420, 213610, 216430, 213132, 216626, 216440
+[2025-08-29 02:27:15] Tura 300: pronađeno 15 objekata od 15 kodova
+[2025-08-29 02:27:15] Tura 300: pronađeni objekti: 213 132, 213 610, 213 619, 213 625, 213 652, 213 690, 213 756, 215 045, 215 265, 215 420, 216 430, 216 440, 216 442, 216 626, 216 803
+[2025-08-29 02:27:15] Uspešno ažurirano za turu 300: 117 km
+[2025-08-29 02:27:15] Verifikacija - tura 300 ima estimated_km: 117
+[2025-08-29 02:27:16] Tura 299: parsovani kodovi: 215056, 213629, 216327, 213635, 216984, 216890, 213653, 216613, 213722, 213764, 213651, 213624, 215370, 215076, 215045
+[2025-08-29 02:27:16] Tura 299: pronađeno 15 objekata od 15 kodova
+[2025-08-29 02:27:16] Tura 299: pronađeni objekti: 213 624, 213 629, 213 635, 213 651, 213 653, 213 722, 213 764, 215 045, 215 056, 215 076, 215 370, 216 327, 216 613, 216 890, 216 984
+[2025-08-29 02:27:16] Uspešno ažurirano za turu 299: 151 km
+[2025-08-29 02:27:16] Verifikacija - tura 299 ima estimated_km: 151
+[2025-08-29 02:27:17] Tura 291: parsovani kodovi: 213934
+[2025-08-29 02:27:17] Tura 291: pronađeno 0 objekata od 1 kodova
+[2025-08-29 02:27:17] Tura 291: nedostaju objekti: 213934
+[2025-08-29 02:27:17] Nije moguće izračunati kilometražu za turu 291 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-08-29 02:27:18] Tura 294: parsovani kodovi: 213710, 213757, 213767, 213115, 216493, 216239, 216248, 213171, 216246, 216488
+[2025-08-29 02:27:18] Tura 294: pronađeno 10 objekata od 10 kodova
+[2025-08-29 02:27:18] Tura 294: pronađeni objekti: 213 115, 213 171, 213 710, 213 757, 213 767, 216 239, 216 246, 216 248, 216 488, 216 493
+[2025-08-29 02:27:18] Uspešno ažurirano za turu 294: 128 km
+[2025-08-29 02:27:18] Verifikacija - tura 294 ima estimated_km: 128
+[2025-08-29 02:27:19] Tura 296: nisu pronađeni validni kodovi u: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-08-29 02:27:19] Nije moguće izračunati kilometražu za turu 296 sa unloading_loc: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-08-29 02:27:20] Tura 292: parsovani kodovi: 213230, 213243, 213210, 213211, 213229, 213276, 213299, 213213, 213240, 213279, 213245, 213296, 213241, 213280
+[2025-08-29 02:27:20] Tura 292: pronađeno 14 objekata od 14 kodova
+[2025-08-29 02:27:20] Tura 292: pronađeni objekti: 213 210, 213 211, 213 213, 213 229, 213 230, 213 240, 213 241, 213 243, 213 245, 213 276, 213 279, 213 280, 213 296, 213 299
+[2025-08-29 02:27:21] Uspešno ažurirano za turu 292: 1202 km
+[2025-08-29 02:27:21] Verifikacija - tura 292 ima estimated_km: 1202
+[2025-08-29 02:27:22] Tura 293: parsovani kodovi: 215056, 216229, 216230, 216225, 215047, 213639, 213149, 216240, 216266, 216486, 214012, 213783, 213151
+[2025-08-29 02:27:22] Tura 293: pronađeno 13 objekata od 13 kodova
+[2025-08-29 02:27:22] Tura 293: pronađeni objekti: 213 149, 213 151, 213 639, 213 783, 214 012, 215 047, 215 056, 216 225, 216 229, 216 230, 216 240, 216 266, 216 486
+[2025-08-29 02:27:22] Uspešno ažurirano za turu 293: 123 km
+[2025-08-29 02:27:22] Verifikacija - tura 293 ima estimated_km: 123
+[2025-08-29 02:27:23] Tura 290: parsovani kodovi: 213213, 213240, 213279
+[2025-08-29 02:27:23] Tura 290: pronađeno 3 objekata od 3 kodova
+[2025-08-29 02:27:23] Tura 290: pronađeni objekti: 213 213, 213 240, 213 279
+[2025-08-29 02:27:23] Uspešno ažurirano za turu 290: 266 km
+[2025-08-29 02:27:23] Verifikacija - tura 290 ima estimated_km: 266
+[2025-08-29 02:27:24] Tura 284: parsovani kodovi: 216246, 216239, 214011, 213126, 216235, 216507, 216870
+[2025-08-29 02:27:24] Tura 284: pronađeno 7 objekata od 7 kodova
+[2025-08-29 02:27:24] Tura 284: pronađeni objekti: 213 126, 214 011, 216 235, 216 239, 216 246, 216 507, 216 870
+[2025-08-29 02:27:24] Uspešno ažurirano za turu 284: 118 km
+[2025-08-29 02:27:24] Verifikacija - tura 284 ima estimated_km: 118
+[2025-08-29 02:27:25] Tura 286: parsovani kodovi: 216267, 213139, 216238, 213114, 213638, 216505, 216890, 216680, 215382, 216676, 213653, 216613
+[2025-08-29 02:27:25] Tura 286: pronađeno 12 objekata od 12 kodova
+[2025-08-29 02:27:25] Tura 286: pronađeni objekti: 213 114, 213 139, 213 638, 213 653, 215 382, 216 238, 216 267, 216 505, 216 613, 216 676, 216 680, 216 890
+[2025-08-29 02:27:25] Uspešno ažurirano za turu 286: 130 km
+[2025-08-29 02:27:25] Verifikacija - tura 286 ima estimated_km: 130
+[2025-08-29 02:27:26] Tura 288: parsovani kodovi: 213195, 216501, 213650, 213776, 216456
+[2025-08-29 02:27:26] Tura 288: pronađeno 5 objekata od 5 kodova
+[2025-08-29 02:27:26] Tura 288: pronađeni objekti: 213 195, 213 650, 213 776, 216 456, 216 501
+[2025-08-29 02:27:27] Uspešno ažurirano za turu 288: 100 km
+[2025-08-29 02:27:27] Verifikacija - tura 288 ima estimated_km: 100
+[2025-08-29 02:27:28] Tura 285: parsovani kodovi: 216684, 216402, 213603, 213602, 213605, 213604, 213609
+[2025-08-29 02:27:28] Tura 285: pronađeno 7 objekata od 7 kodova
+[2025-08-29 02:27:28] Tura 285: pronađeni objekti: 213 602, 213 603, 213 604, 213 605, 213 609, 216 402, 216 684
+[2025-08-29 02:27:28] Uspešno ažurirano za turu 285: 137 km
+[2025-08-29 02:27:28] Verifikacija - tura 285 ima estimated_km: 137
+[2025-08-29 02:27:29] Tura 289: parsovani kodovi: 216511, 216675, 213131, 216280, 216514, 213168, 215141, 213135
+[2025-08-29 02:27:29] Tura 289: pronađeno 8 objekata od 8 kodova
+[2025-08-29 02:27:29] Tura 289: pronađeni objekti: 213 131, 213 135, 213 168, 215 141, 216 280, 216 511, 216 514, 216 675
+[2025-08-29 02:27:29] Uspešno ažurirano za turu 289: 142 km
+[2025-08-29 02:27:29] Verifikacija - tura 289 ima estimated_km: 142
+[2025-08-29 02:27:30] Tura 287: parsovani kodovi: 216449, 216413, 216419, 216440, 216873, 216782, 216803, 213620, 216430, 213610, 213772, 216921
+[2025-08-29 02:27:30] Tura 287: pronađeno 12 objekata od 12 kodova
+[2025-08-29 02:27:30] Tura 287: pronađeni objekti: 213 610, 213 620, 213 772, 216 413, 216 419, 216 430, 216 440, 216 449, 216 782, 216 803, 216 873, 216 921
+[2025-08-29 02:27:30] Uspešno ažurirano za turu 287: 141 km
+[2025-08-29 02:27:30] Verifikacija - tura 287 ima estimated_km: 141
+[2025-08-29 02:27:31] Tura 283: parsovani kodovi: 215070, 216221, 215288, 216229, 216230, 216225, 213686, 213764, 215286, 213699, 216204
+[2025-08-29 02:27:31] Tura 283: pronađeno 11 objekata od 11 kodova
+[2025-08-29 02:27:31] Tura 283: pronađeni objekti: 213 686, 213 699, 213 764, 215 070, 215 286, 215 288, 216 204, 216 221, 216 225, 216 229, 216 230
+[2025-08-29 02:27:31] Uspešno ažurirano za turu 283: 101 km
+[2025-08-29 02:27:31] Verifikacija - tura 283 ima estimated_km: 101
+[2025-08-29 02:27:32] Tura 276: parsovani kodovi: 213756, 216671, 216670, 213143, 213130
+[2025-08-29 02:27:32] Tura 276: pronađeno 5 objekata od 5 kodova
+[2025-08-29 02:27:32] Tura 276: pronađeni objekti: 213 130, 213 143, 213 756, 216 670, 216 671
+[2025-08-29 02:27:33] Uspešno ažurirano za turu 276: 125 km
+[2025-08-29 02:27:33] Verifikacija - tura 276 ima estimated_km: 125
+[2025-08-29 02:27:34] Tura 274: parsovani kodovi: 216280, 216678, 213135, 213162, 213646, 216224, 213166, 213120, 213715, 213770
+[2025-08-29 02:27:34] Tura 274: pronađeno 10 objekata od 10 kodova
+[2025-08-29 02:27:34] Tura 274: pronađeni objekti: 213 120, 213 135, 213 162, 213 166, 213 646, 213 715, 213 770, 216 224, 216 280, 216 678
+[2025-08-29 02:27:34] Uspešno ažurirano za turu 274: 346 km
+[2025-08-29 02:27:34] Verifikacija - tura 274 ima estimated_km: 346
+[2025-08-29 02:27:35] Tura 278: parsovani kodovi: 214011, 216507, 213175, 216762, 213116
+[2025-08-29 02:27:35] Tura 278: pronađeno 5 objekata od 5 kodova
+[2025-08-29 02:27:35] Tura 278: pronađeni objekti: 213 116, 213 175, 214 011, 216 507, 216 762
+[2025-08-29 02:27:35] Uspešno ažurirano za turu 278: 110 km
+[2025-08-29 02:27:35] Verifikacija - tura 278 ima estimated_km: 110
+[2025-08-29 02:27:36] Tura 386: parsovani kodovi: 213633, 213142, 213145, 215045, 213680, 213641, 213652, 216626
+[2025-08-29 02:27:36] Tura 386: pronađeno 8 objekata od 8 kodova
+[2025-08-29 02:27:36] Tura 386: pronađeni objekti: 213 142, 213 145, 213 633, 213 641, 213 652, 213 680, 215 045, 216 626
+[2025-08-29 02:27:36] Uspešno ažurirano za turu 386: 89 km
+[2025-08-29 02:27:36] Verifikacija - tura 386 ima estimated_km: 89
+[2025-08-29 02:27:37] Tura 387: parsovani kodovi: 216684, 216402, 213602, 215215, 213605, 213604, 213609
+[2025-08-29 02:27:37] Tura 387: pronađeno 7 objekata od 7 kodova
+[2025-08-29 02:27:37] Tura 387: pronađeni objekti: 213 602, 213 604, 213 605, 213 609, 215 215, 216 402, 216 684
+[2025-08-29 02:27:37] Uspešno ažurirano za turu 387: 126 km
+[2025-08-29 02:27:37] Verifikacija - tura 387 ima estimated_km: 126
+[2025-08-29 02:27:38] Tura 275: parsovani kodovi: 213639, 216322, 215056, 216240, 216327, 213134, 213744, 215045, 216764, 215265, 216775, 213756, 213680, 213647, 216803, 213625, 213641
+[2025-08-29 02:27:38] Tura 275: pronađeno 17 objekata od 17 kodova
+[2025-08-29 02:27:38] Tura 275: pronađeni objekti: 213 134, 213 625, 213 639, 213 641, 213 647, 213 680, 213 744, 213 756, 215 045, 215 056, 215 265, 216 240, 216 322, 216 327, 216 764, 216 775, 216 803
+[2025-08-29 02:27:39] Uspešno ažurirano za turu 275: 151 km
+[2025-08-29 02:27:39] Verifikacija - tura 275 ima estimated_km: 151
+[2025-08-29 02:27:40] Tura 279: parsovani kodovi: 215056, 216332, 216217, 216334, 216327, 216984, 216890, 215382, 213653, 216676, 213182, 216222, 216613
+[2025-08-29 02:27:40] Tura 279: pronađeno 13 objekata od 13 kodova
+[2025-08-29 02:27:40] Tura 279: pronađeni objekti: 213 182, 213 653, 215 056, 215 382, 216 217, 216 222, 216 327, 216 332, 216 334, 216 613, 216 676, 216 890, 216 984
+[2025-08-29 02:27:40] Uspešno ažurirano za turu 279: 132 km
+[2025-08-29 02:27:40] Verifikacija - tura 279 ima estimated_km: 132
+[2025-08-29 02:27:41] Tura 273: parsovani kodovi: 213756, 216671, 216670, 213143, 213130
+[2025-08-29 02:27:41] Tura 273: pronađeno 5 objekata od 5 kodova
+[2025-08-29 02:27:41] Tura 273: pronađeni objekti: 213 130, 213 143, 213 756, 216 670, 216 671
+[2025-08-29 02:27:41] Uspešno ažurirano za turu 273: 125 km
+[2025-08-29 02:27:41] Verifikacija - tura 273 ima estimated_km: 125
+[2025-08-29 02:27:42] Tura 270: parsovani kodovi: 213666, 213638, 213635, 213184, 215109, 213195, 213744, 213632
+[2025-08-29 02:27:42] Tura 270: pronađeno 8 objekata od 8 kodova
+[2025-08-29 02:27:42] Tura 270: pronađeni objekti: 213 184, 213 195, 213 632, 213 635, 213 638, 213 666, 213 744, 215 109
+[2025-08-29 02:27:42] Uspešno ažurirano za turu 270: 106 km
+[2025-08-29 02:27:42] Verifikacija - tura 270 ima estimated_km: 106
+[2025-08-29 02:27:43] Tura 271: parsovani kodovi: 216485, 215047, 216266, 213686, 213744, 215156, 215284, 213139, 216775, 213768, 213121, 216456, 213757, 213710
+[2025-08-29 02:27:43] Tura 271: pronađeno 14 objekata od 14 kodova
+[2025-08-29 02:27:43] Tura 271: pronađeni objekti: 213 121, 213 139, 213 686, 213 710, 213 744, 213 757, 213 768, 215 047, 215 156, 215 284, 216 266, 216 456, 216 485, 216 775
+[2025-08-29 02:27:43] Uspešno ažurirano za turu 271: 154 km
+[2025-08-29 02:27:43] Verifikacija - tura 271 ima estimated_km: 154
+[2025-08-29 02:27:44] Tura 268: parsovani kodovi: 213767, 213199, 215355, 215082, 213679, 216678, 213168, 215141
+[2025-08-29 02:27:44] Tura 268: pronađeno 8 objekata od 8 kodova
+[2025-08-29 02:27:44] Tura 268: pronađeni objekti: 213 168, 213 199, 213 679, 213 767, 215 082, 215 141, 215 355, 216 678
+[2025-08-29 02:27:45] Uspešno ažurirano za turu 268: 162 km
+[2025-08-29 02:27:45] Verifikacija - tura 268 ima estimated_km: 162
+[2025-08-29 02:27:46] Tura 269: parsovani kodovi: 216444, 215370, 216775, 213756, 213680, 213272, 213745
+[2025-08-29 02:27:46] Tura 269: pronađeno 7 objekata od 7 kodova
+[2025-08-29 02:27:46] Tura 269: pronađeni objekti: 213 272, 213 680, 213 745, 213 756, 215 370, 216 444, 216 775
+[2025-08-29 02:27:46] Uspešno ažurirano za turu 269: 96 km
+[2025-08-29 02:27:46] Verifikacija - tura 269 ima estimated_km: 96
+[2025-08-29 02:27:47] Tura 264: parsovani kodovi: 216926, 213183, 216984, 215073, 213182, 216327, 216486, 213638, 213134, 213765
+[2025-08-29 02:27:47] Tura 264: pronađeno 10 objekata od 10 kodova
+[2025-08-29 02:27:47] Tura 264: pronađeni objekti: 213 134, 213 182, 213 183, 213 638, 213 765, 215 073, 216 327, 216 486, 216 926, 216 984
+[2025-08-29 02:27:47] Uspešno ažurirano za turu 264: 116 km
+[2025-08-29 02:27:47] Verifikacija - tura 264 ima estimated_km: 116
+[2025-08-29 02:27:48] Tura 267: parsovani kodovi: 216272, 215143, 216229, 216230, 216225, 213686, 213696, 213745, 213139, 213699, 215284, 215109, 216238, 215382, 216676
+[2025-08-29 02:27:48] Tura 267: pronađeno 15 objekata od 15 kodova
+[2025-08-29 02:27:48] Tura 267: pronađeni objekti: 213 139, 213 686, 213 696, 213 699, 213 745, 215 109, 215 143, 215 284, 215 382, 216 225, 216 229, 216 230, 216 238, 216 272, 216 676
+[2025-08-29 02:27:48] Uspešno ažurirano za turu 267: 131 km
+[2025-08-29 02:27:48] Verifikacija - tura 267 ima estimated_km: 131
+[2025-08-29 02:27:49] Tura 266: parsovani kodovi: 216925, 215088, 213667
+[2025-08-29 02:27:49] Tura 266: pronađeno 3 objekata od 3 kodova
+[2025-08-29 02:27:49] Tura 266: pronađeni objekti: 213 667, 215 088, 216 925
+[2025-08-29 02:27:49] Uspešno ažurirano za turu 266: 172 km
+[2025-08-29 02:27:49] Verifikacija - tura 266 ima estimated_km: 172
+[2025-08-29 02:27:50] Tura 263: parsovani kodovi: 216413, 213123, 216626, 213132, 213142
+[2025-08-29 02:27:50] Tura 263: pronađeno 5 objekata od 5 kodova
+[2025-08-29 02:27:50] Tura 263: pronađeni objekti: 213 123, 213 132, 213 142, 216 413, 216 626
+[2025-08-29 02:27:50] Uspešno ažurirano za turu 263: 87 km
+[2025-08-29 02:27:50] Verifikacija - tura 263 ima estimated_km: 87
+[2025-08-29 02:27:51] Tura 262: parsovani kodovi: 216803, 213625, 213647, 213756, 216775, 215076, 213145, 215045, 214011
+[2025-08-29 02:27:51] Tura 262: pronađeno 9 objekata od 9 kodova
+[2025-08-29 02:27:51] Tura 262: pronađeni objekti: 213 145, 213 625, 213 647, 213 756, 214 011, 215 045, 215 076, 216 775, 216 803
+[2025-08-29 02:27:52] Uspešno ažurirano za turu 262: 94 km
+[2025-08-29 02:27:52] Verifikacija - tura 262 ima estimated_km: 94
+[2025-08-29 02:27:53] Tura 260: parsovani kodovi: 215143, 216230, 216225, 215047, 214012, 215156, 216243, 215284, 213139, 213632, 216239, 216248, 216493, 213769, 213115, 213757, 213710
+[2025-08-29 02:27:53] Tura 260: pronađeno 17 objekata od 17 kodova
+[2025-08-29 02:27:53] Tura 260: pronađeni objekti: 213 115, 213 139, 213 632, 213 710, 213 757, 213 769, 214 012, 215 047, 215 143, 215 156, 215 284, 216 225, 216 230, 216 239, 216 243, 216 248, 216 493
+[2025-08-29 02:27:53] Uspešno ažurirano za turu 260: 141 km
+[2025-08-29 02:27:53] Verifikacija - tura 260 ima estimated_km: 141
+[2025-08-29 02:27:54] Tura 259: parsovani kodovi: 213320, 213324, 213322, 213366
+[2025-08-29 02:27:54] Tura 259: pronađeno 3 objekata od 4 kodova
+[2025-08-29 02:27:54] Tura 259: pronađeni objekti: 213 320, 213 322, 213 324
+[2025-08-29 02:27:54] Tura 259: nedostaju objekti: 213320, 213324, 213322, 213366
+[2025-08-29 02:27:54] Uspešno ažurirano za turu 259: 406 km
+[2025-08-29 02:27:54] Verifikacija - tura 259 ima estimated_km: 406
+[2025-08-29 02:27:55] Tura 257: parsovani kodovi: 213633, 213199, 215355, 215158, 215082, 213648, 213679, 216762, 215152, 213697, 213162, 213646
+[2025-08-29 02:27:55] Tura 257: pronađeno 12 objekata od 12 kodova
+[2025-08-29 02:27:55] Tura 257: pronađeni objekti: 213 162, 213 199, 213 633, 213 646, 213 648, 213 679, 213 697, 215 082, 215 152, 215 158, 215 355, 216 762
+[2025-08-29 02:27:55] Uspešno ažurirano za turu 257: 228 km
+[2025-08-29 02:27:55] Verifikacija - tura 257 ima estimated_km: 228
+[2025-08-29 02:27:56] Tura 258: parsovani kodovi: 213165, 213615
+[2025-08-29 02:27:56] Tura 258: pronađeno 2 objekata od 2 kodova
+[2025-08-29 02:27:56] Tura 258: pronađeni objekti: 213 165, 213 615
+[2025-08-29 02:27:56] Uspešno ažurirano za turu 258: 148 km
+[2025-08-29 02:27:56] Verifikacija - tura 258 ima estimated_km: 148
+[2025-08-29 02:27:57] Tura 256: parsovani kodovi: 213144, 214004, 213136, 213601, 216671, 213190, 213115, 213760
+[2025-08-29 02:27:57] Tura 256: pronađeno 8 objekata od 8 kodova
+[2025-08-29 02:27:57] Tura 256: pronađeni objekti: 213 115, 213 136, 213 144, 213 190, 213 601, 213 760, 214 004, 216 671
+[2025-08-29 02:27:58] Uspešno ažurirano za turu 256: 128 km
+[2025-08-29 02:27:58] Verifikacija - tura 256 ima estimated_km: 128
+[2025-08-29 02:27:59] Tura 253: parsovani kodovi: 216248, 216506, 213129, 213627, 213650, 216243, 215284, 213769
+[2025-08-29 02:27:59] Tura 253: pronađeno 8 objekata od 8 kodova
+[2025-08-29 02:27:59] Tura 253: pronađeni objekti: 213 129, 213 627, 213 650, 213 769, 215 284, 216 243, 216 248, 216 506
+[2025-08-29 02:27:59] Uspešno ažurirano za turu 253: 111 km
+[2025-08-29 02:27:59] Verifikacija - tura 253 ima estimated_km: 111
+[2025-08-29 02:28:00] Tura 255: parsovani kodovi: 216486, 216217, 216211, 213182, 213149, 215070, 213638, 215066, 213160, 213781, 213130, 213667, 213143, 215088, 215096
+[2025-08-29 02:28:00] Tura 255: pronađeno 15 objekata od 15 kodova
+[2025-08-29 02:28:00] Tura 255: pronađeni objekti: 213 130, 213 143, 213 149, 213 160, 213 182, 213 638, 213 667, 213 781, 215 066, 215 070, 215 088, 215 096, 216 211, 216 217, 216 486
+[2025-08-29 02:28:00] Uspešno ažurirano za turu 255: 212 km
+[2025-08-29 02:28:00] Verifikacija - tura 255 ima estimated_km: 212
+[2025-08-29 02:28:01] Tura 254: parsovani kodovi: 216488, 213179, 213685, 213129
+[2025-08-29 02:28:01] Tura 254: pronađeno 4 objekata od 4 kodova
+[2025-08-29 02:28:01] Tura 254: pronađeni objekti: 213 129, 213 179, 213 685, 216 488
+[2025-08-29 02:28:01] Uspešno ažurirano za turu 254: 101 km
+[2025-08-29 02:28:01] Verifikacija - tura 254 ima estimated_km: 101
+[2025-08-29 02:28:02] Tura 251: parsovani kodovi: 213178, 215069, 215009, 216267, 216220, 215160, 213194, 215013, 216986, 215191, 215194, 213668, 215193, 215044, 215048
+[2025-08-29 02:28:02] Tura 251: pronađeno 15 objekata od 15 kodova
+[2025-08-29 02:28:02] Tura 251: pronađeni objekti: 213 178, 213 194, 213 668, 215 009, 215 013, 215 044, 215 048, 215 069, 215 160, 215 191, 215 193, 215 194, 216 220, 216 267, 216 986
+[2025-08-29 02:28:02] Uspešno ažurirano za turu 251: 236 km
+[2025-08-29 02:28:02] Verifikacija - tura 251 ima estimated_km: 236
+[2025-08-29 02:28:03] Tura 252: parsovani kodovi: 213946, 213936
+[2025-08-29 02:28:03] Tura 252: pronađeno 0 objekata od 2 kodova
+[2025-08-29 02:28:03] Tura 252: nedostaju objekti: 213946, 213936
+[2025-08-29 02:28:03] Nije moguće izračunati kilometražu za turu 252 sa unloading_loc: TMO 213 946,TMO 213 936
+[2025-08-29 02:28:04] Tura 250: parsovani kodovi: 213461, 213410, 213445, 214005, 213470, 213471, 213618, 213621, 213440, 213419
+[2025-08-29 02:28:04] Tura 250: pronađeno 10 objekata od 10 kodova
+[2025-08-29 02:28:04] Tura 250: pronađeni objekti: 213 410, 213 419, 213 440, 213 445, 213 461, 213 470, 213 471, 213 618, 213 621, 214 005
+[2025-08-29 02:28:05] Uspešno ažurirano za turu 250: 565 km
+[2025-08-29 02:28:05] Verifikacija - tura 250 ima estimated_km: 565
+[2025-08-29 02:28:06] Tura 249: parsovani kodovi: 216272, 216288, 215159, 216219, 215006, 215014, 216268, 216202, 213634, 216210, 213764
+[2025-08-29 02:28:06] Tura 249: pronađeno 11 objekata od 11 kodova
+[2025-08-29 02:28:06] Tura 249: pronađeni objekti: 213 634, 213 764, 215 006, 215 014, 215 159, 216 202, 216 210, 216 219, 216 268, 216 272, 216 288
+[2025-08-29 02:28:06] Uspešno ažurirano za turu 249: 117 km
+[2025-08-29 02:28:06] Verifikacija - tura 249 ima estimated_km: 117
+[2025-08-29 02:28:07] Tura 248: parsovani kodovi: 216485, 216486, 216505, 213146, 216608, 213196, 214001, 216603
+[2025-08-29 02:28:07] Tura 248: pronađeno 8 objekata od 8 kodova
+[2025-08-29 02:28:07] Tura 248: pronađeni objekti: 213 146, 213 196, 214 001, 216 485, 216 486, 216 505, 216 603, 216 608
+[2025-08-29 02:28:07] Uspešno ažurirano za turu 248: 129 km
+[2025-08-29 02:28:07] Verifikacija - tura 248 ima estimated_km: 129
+[2025-08-29 02:28:08] Tura 245: parsovani kodovi: 216322, 216327, 216332, 213639, 213195, 216501, 213722, 213765, 213613
+[2025-08-29 02:28:08] Tura 245: pronađeno 9 objekata od 9 kodova
+[2025-08-29 02:28:08] Tura 245: pronađeni objekti: 213 195, 213 613, 213 639, 213 722, 213 765, 216 322, 216 327, 216 332, 216 501
+[2025-08-29 02:28:08] Uspešno ažurirano za turu 245: 115 km
+[2025-08-29 02:28:08] Verifikacija - tura 245 ima estimated_km: 115
+[2025-08-29 02:28:09] Tura 246: parsovani kodovi: 213509, 213527, 213528, 213525, 214013, 213502, 213506, 213519, 213505, 213504, 213534, 213539, 213529
+[2025-08-29 02:28:09] Tura 246: pronađeno 13 objekata od 13 kodova
+[2025-08-29 02:28:09] Tura 246: pronađeni objekti: 213 502, 213 504, 213 505, 213 506, 213 509, 213 519, 213 525, 213 527, 213 528, 213 529, 213 534, 213 539, 214 013
+[2025-08-29 02:28:10] Uspešno ažurirano za turu 246: 609 km
+[2025-08-29 02:28:10] Verifikacija - tura 246 ima estimated_km: 609
+[2025-08-29 02:28:11] Tura 243: parsovani kodovi: 213541, 216895, 213763
+[2025-08-29 02:28:11] Tura 243: pronađeno 3 objekata od 3 kodova
+[2025-08-29 02:28:11] Tura 243: pronađeni objekti: 213 541, 213 763, 216 895
+[2025-08-29 02:28:11] Uspešno ažurirano za turu 243: 329 km
+[2025-08-29 02:28:11] Verifikacija - tura 243 ima estimated_km: 329
+[2025-08-29 02:28:12] Tura 240: parsovani kodovi: 215082, 215158, 215355, 216507, 216234, 213175, 216675, 216762
+[2025-08-29 02:28:12] Tura 240: pronađeno 8 objekata od 8 kodova
+[2025-08-29 02:28:12] Tura 240: pronađeni objekti: 213 175, 215 082, 215 158, 215 355, 216 234, 216 507, 216 675, 216 762
+[2025-08-29 02:28:12] Uspešno ažurirano za turu 240: 107 km
+[2025-08-29 02:28:12] Verifikacija - tura 240 ima estimated_km: 107
+[2025-08-29 02:28:13] Tura 239: parsovani kodovi: 213164, 213199, 213126, 216248, 216493, 216239, 216246, 213171, 216491, 213128
+[2025-08-29 02:28:13] Tura 239: pronađeno 10 objekata od 10 kodova
+[2025-08-29 02:28:13] Tura 239: pronađeni objekti: 213 126, 213 128, 213 164, 213 171, 213 199, 216 239, 216 246, 216 248, 216 491, 216 493
+[2025-08-29 02:28:13] Uspešno ažurirano za turu 239: 131 km
+[2025-08-29 02:28:13] Verifikacija - tura 239 ima estimated_km: 131
+[2025-08-29 02:28:14] Tura 238: nisu pronađeni validni kodovi u: Požarevac
+[2025-08-29 02:28:14] Nije moguće izračunati kilometražu za turu 238 sa unloading_loc: Požarevac
+[2025-08-29 02:28:15] Tura 237: parsovani kodovi: 213292, 213148, 213668, 215194, 213263, 215193, 215110, 215044
+[2025-08-29 02:28:15] Tura 237: pronađeno 8 objekata od 8 kodova
+[2025-08-29 02:28:15] Tura 237: pronađeni objekti: 213 148, 213 263, 213 292, 213 668, 215 044, 215 110, 215 193, 215 194
+[2025-08-29 02:28:15] Uspešno ažurirano za turu 237: 184 km
+[2025-08-29 02:28:15] Verifikacija - tura 237 ima estimated_km: 184
+[2025-08-29 02:28:16] Tura 234: parsovani kodovi: 213445, 214005, 213470, 213471, 213419, 213440, 213621, 213618
+[2025-08-29 02:28:16] Tura 234: pronađeno 8 objekata od 8 kodova
+[2025-08-29 02:28:16] Tura 234: pronađeni objekti: 213 419, 213 440, 213 445, 213 470, 213 471, 213 618, 213 621, 214 005
+[2025-08-29 02:28:17] Uspešno ažurirano za turu 234: 511 km
+[2025-08-29 02:28:17] Verifikacija - tura 234 ima estimated_km: 511
+[2025-08-29 02:28:18] Tura 235: parsovani kodovi: 213688, 213205, 213255, 213256, 213645, 213232, 213208, 213202, 213215, 213257
+[2025-08-29 02:28:18] Tura 235: pronađeno 10 objekata od 10 kodova
+[2025-08-29 02:28:18] Tura 235: pronađeni objekti: 213 202, 213 205, 213 208, 213 215, 213 232, 213 255, 213 256, 213 257, 213 645, 213 688
+[2025-08-29 02:28:18] Uspešno ažurirano za turu 235: 134 km
+[2025-08-29 02:28:18] Verifikacija - tura 235 ima estimated_km: 134
+[2025-08-29 02:28:19] Tura 236: parsovani kodovi: 215044, 215048, 215110, 215193
+[2025-08-29 02:28:19] Tura 236: pronađeno 4 objekata od 4 kodova
+[2025-08-29 02:28:19] Tura 236: pronađeni objekti: 215 044, 215 048, 215 110, 215 193
+[2025-08-29 02:28:19] Uspešno ažurirano za turu 236: 119 km
+[2025-08-29 02:28:19] Verifikacija - tura 236 ima estimated_km: 119
+[2025-08-29 02:28:20] Ažuriranje završeno. Ukupno ažurirano: 95 tura
+[2025-08-30 00:36:43] Pokretanje ažuriranja procenjene kilometraže
+[2025-08-30 00:36:43] Kolona 'estimated_km' postoji u tabeli
+[2025-08-30 00:36:43] Ukupno tura u bazi: 296
+[2025-08-30 00:36:43] Tura sa unloading_loc: 292
+[2025-08-30 00:36:43] Tura bez estimated_km: 197
+[2025-08-30 00:36:43] Pronađeno je 11 tura za obradu
+[2025-08-30 00:36:43] Debug tura ID 391: estimated_km=0, unloading_loc length=47
+[2025-08-30 00:36:43] Debug tura ID 390: estimated_km=0, unloading_loc length=119
+[2025-08-30 00:36:43] Debug tura ID 379: estimated_km=0, unloading_loc length=23
+[2025-08-30 00:36:43] Tura 391: parsovani kodovi: 216775, 216764, 213636, 216501
+[2025-08-30 00:36:43] Tura 391: pronađeno 4 objekata od 4 kodova
+[2025-08-30 00:36:43] Tura 391: pronađeni objekti: 213 636, 216 501, 216 764, 216 775
+[2025-08-30 00:36:43] Uspešno ažurirano za turu 391: 86 km
+[2025-08-30 00:36:43] Verifikacija - tura 391 ima estimated_km: 86
+[2025-08-30 00:36:44] Tura 390: parsovani kodovi: 216241, 215136, 213183, 213632, 216250, 213744, 213139, 216493, 216248, 216239
+[2025-08-30 00:36:44] Tura 390: pronađeno 10 objekata od 10 kodova
+[2025-08-30 00:36:44] Tura 390: pronađeni objekti: 213 139, 213 183, 213 632, 213 744, 215 136, 216 239, 216 241, 216 248, 216 250, 216 493
+[2025-08-30 00:36:45] Uspešno ažurirano za turu 390: 113 km
+[2025-08-30 00:36:45] Verifikacija - tura 390 ima estimated_km: 113
+[2025-08-30 00:36:46] Tura 379: parsovani kodovi: 213934
+[2025-08-30 00:36:46] Tura 379: pronađeno 0 objekata od 1 kodova
+[2025-08-30 00:36:46] Tura 379: nedostaju objekti: 213934
+[2025-08-30 00:36:46] Nije moguće izračunati kilometražu za turu 379 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-08-30 00:36:47] Tura 346: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-08-30 00:36:47] Nije moguće izračunati kilometražu za turu 346 sa unloading_loc: TMO 213 AMP
+[2025-08-30 00:36:48] Tura 345: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-08-30 00:36:48] Nije moguće izračunati kilometražu za turu 345 sa unloading_loc: TMO 213 R45
+[2025-08-30 00:36:49] Tura 336: parsovani kodovi: 213934
+[2025-08-30 00:36:49] Tura 336: pronađeno 0 objekata od 1 kodova
+[2025-08-30 00:36:49] Tura 336: nedostaju objekti: 213934
+[2025-08-30 00:36:49] Nije moguće izračunati kilometražu za turu 336 sa unloading_loc: TMO 213 934
+[2025-08-30 00:36:50] Tura 338: nisu pronađeni validni kodovi u: Nova Pazova, NBG
+[2025-08-30 00:36:50] Nije moguće izračunati kilometražu za turu 338 sa unloading_loc: Nova Pazova, NBG
+[2025-08-30 00:36:51] Tura 291: parsovani kodovi: 213934
+[2025-08-30 00:36:51] Tura 291: pronađeno 0 objekata od 1 kodova
+[2025-08-30 00:36:51] Tura 291: nedostaju objekti: 213934
+[2025-08-30 00:36:51] Nije moguće izračunati kilometražu za turu 291 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-08-30 00:36:52] Tura 296: nisu pronađeni validni kodovi u: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-08-30 00:36:52] Nije moguće izračunati kilometražu za turu 296 sa unloading_loc: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-08-30 00:36:53] Tura 252: parsovani kodovi: 213946, 213936
+[2025-08-30 00:36:53] Tura 252: pronađeno 0 objekata od 2 kodova
+[2025-08-30 00:36:53] Tura 252: nedostaju objekti: 213946, 213936
+[2025-08-30 00:36:53] Nije moguće izračunati kilometražu za turu 252 sa unloading_loc: TMO 213 946,TMO 213 936
+[2025-08-30 00:36:54] Tura 238: nisu pronađeni validni kodovi u: Požarevac
+[2025-08-30 00:36:54] Nije moguće izračunati kilometražu za turu 238 sa unloading_loc: Požarevac
+[2025-08-30 00:36:55] Ažuriranje završeno. Ukupno ažurirano: 2 tura
+[2025-09-01 17:23:54] Pokretanje ažuriranja procenjene kilometraže
+[2025-09-01 17:23:54] Kolona 'estimated_km' postoji u tabeli
+[2025-09-01 17:23:54] Ukupno tura u bazi: 300
+[2025-09-01 17:23:54] Tura sa unloading_loc: 296
+[2025-09-01 17:23:54] Tura bez estimated_km: 199
+[2025-09-01 17:23:54] Pronađeno je 13 tura za obradu
+[2025-09-01 17:23:54] Debug tura ID 393: estimated_km=0, unloading_loc length=71
+[2025-09-01 17:23:54] Debug tura ID 392: estimated_km=0, unloading_loc length=95
+[2025-09-01 17:23:54] Debug tura ID 394: estimated_km=0, unloading_loc length=119
+[2025-09-01 17:23:54] Tura 393: parsovani kodovi: 213771, 216413, 213137, 216456, 213122
+[2025-09-01 17:23:54] Tura 393: pronađeno 5 objekata od 5 kodova
+[2025-09-01 17:23:54] Tura 393: pronađeni objekti: 213 122, 213 137, 213 771, 216 413, 216 456
+[2025-09-01 17:23:54] Uspešno ažurirano za turu 393: 103 km
+[2025-09-01 17:23:54] Verifikacija - tura 393 ima estimated_km: 103
+[2025-09-01 17:23:55] Tura 392: parsovani kodovi: 213223, 216306, 213657, 213103, 216500, 213123, 215076, 213756
+[2025-09-01 17:23:55] Tura 392: pronađeno 8 objekata od 8 kodova
+[2025-09-01 17:23:55] Tura 392: pronađeni objekti: 213 103, 213 123, 213 223, 213 657, 213 756, 215 076, 216 306, 216 500
+[2025-09-01 17:23:55] Uspešno ažurirano za turu 392: 207 km
+[2025-09-01 17:23:55] Verifikacija - tura 392 ima estimated_km: 207
+[2025-09-01 17:23:56] Tura 394: parsovani kodovi: 213183, 216926, 216486, 213134, 213146, 213107, 213765, 213613, 216608, 213196
+[2025-09-01 17:23:56] Tura 394: pronađeno 10 objekata od 10 kodova
+[2025-09-01 17:23:56] Tura 394: pronađeni objekti: 213 107, 213 134, 213 146, 213 183, 213 196, 213 613, 213 765, 216 486, 216 608, 216 926
+[2025-09-01 17:23:56] Uspešno ažurirano za turu 394: 136 km
+[2025-09-01 17:23:56] Verifikacija - tura 394 ima estimated_km: 136
+[2025-09-01 17:23:57] Tura 395: parsovani kodovi: 213183, 216926, 216486, 213134, 213146, 213107, 213765, 213613, 216608, 213196
+[2025-09-01 17:23:57] Tura 395: pronađeno 10 objekata od 10 kodova
+[2025-09-01 17:23:57] Tura 395: pronađeni objekti: 213 107, 213 134, 213 146, 213 183, 213 196, 213 613, 213 765, 216 486, 216 608, 216 926
+[2025-09-01 17:23:58] Uspešno ažurirano za turu 395: 136 km
+[2025-09-01 17:23:58] Verifikacija - tura 395 ima estimated_km: 136
+[2025-09-01 17:23:59] Tura 379: parsovani kodovi: 213934
+[2025-09-01 17:23:59] Tura 379: pronađeno 0 objekata od 1 kodova
+[2025-09-01 17:23:59] Tura 379: nedostaju objekti: 213934
+[2025-09-01 17:23:59] Nije moguće izračunati kilometražu za turu 379 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-09-01 17:24:00] Tura 346: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-09-01 17:24:00] Nije moguće izračunati kilometražu za turu 346 sa unloading_loc: TMO 213 AMP
+[2025-09-01 17:24:01] Tura 345: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-09-01 17:24:01] Nije moguće izračunati kilometražu za turu 345 sa unloading_loc: TMO 213 R45
+[2025-09-01 17:24:02] Tura 336: parsovani kodovi: 213934
+[2025-09-01 17:24:02] Tura 336: pronađeno 0 objekata od 1 kodova
+[2025-09-01 17:24:02] Tura 336: nedostaju objekti: 213934
+[2025-09-01 17:24:02] Nije moguće izračunati kilometražu za turu 336 sa unloading_loc: TMO 213 934
+[2025-09-01 17:24:03] Tura 338: nisu pronađeni validni kodovi u: Nova Pazova, NBG
+[2025-09-01 17:24:03] Nije moguće izračunati kilometražu za turu 338 sa unloading_loc: Nova Pazova, NBG
+[2025-09-01 17:24:04] Tura 291: parsovani kodovi: 213934
+[2025-09-01 17:24:04] Tura 291: pronađeno 0 objekata od 1 kodova
+[2025-09-01 17:24:04] Tura 291: nedostaju objekti: 213934
+[2025-09-01 17:24:04] Nije moguće izračunati kilometražu za turu 291 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-09-01 17:24:05] Tura 296: nisu pronađeni validni kodovi u: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-09-01 17:24:05] Nije moguće izračunati kilometražu za turu 296 sa unloading_loc: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-09-01 17:24:06] Tura 252: parsovani kodovi: 213946, 213936
+[2025-09-01 17:24:06] Tura 252: pronađeno 0 objekata od 2 kodova
+[2025-09-01 17:24:06] Tura 252: nedostaju objekti: 213946, 213936
+[2025-09-01 17:24:06] Nije moguće izračunati kilometražu za turu 252 sa unloading_loc: TMO 213 946,TMO 213 936
+[2025-09-01 17:24:07] Tura 238: nisu pronađeni validni kodovi u: Požarevac
+[2025-09-01 17:24:07] Nije moguće izračunati kilometražu za turu 238 sa unloading_loc: Požarevac
+[2025-09-01 17:24:08] Ažuriranje završeno. Ukupno ažurirano: 4 tura
+[2025-09-04 19:01:55] Pokretanje ažuriranja procenjene kilometraže
+[2025-09-04 19:01:55] Kolona 'estimated_km' postoji u tabeli
+[2025-09-04 19:01:55] Ukupno tura u bazi: 318
+[2025-09-04 19:01:55] Tura sa unloading_loc: 314
+[2025-09-04 19:01:55] Tura bez estimated_km: 213
+[2025-09-04 19:01:55] Pronađeno je 27 tura za obradu
+[2025-09-04 19:01:55] Debug tura ID 409: estimated_km=0, unloading_loc length=35
+[2025-09-04 19:01:55] Debug tura ID 410: estimated_km=0, unloading_loc length=47
+[2025-09-04 19:01:55] Debug tura ID 412: estimated_km=0, unloading_loc length=11
+[2025-09-04 19:01:55] Tura 409: parsovani kodovi: 213103, 213121, 213132
+[2025-09-04 19:01:55] Tura 409: pronađeno 3 objekata od 3 kodova
+[2025-09-04 19:01:55] Tura 409: pronađeni objekti: 213 103, 213 121, 213 132
+[2025-09-04 19:01:55] Uspešno ažurirano za turu 409: 65 km
+[2025-09-04 19:01:55] Verifikacija - tura 409 ima estimated_km: 65
+[2025-09-04 19:01:56] Tura 410: parsovani kodovi: 213122, 216502, 213123, 216775
+[2025-09-04 19:01:56] Tura 410: pronađeno 4 objekata od 4 kodova
+[2025-09-04 19:01:56] Tura 410: pronađeni objekti: 213 122, 213 123, 216 502, 216 775
+[2025-09-04 19:01:56] Uspešno ažurirano za turu 410: 68 km
+[2025-09-04 19:01:56] Verifikacija - tura 410 ima estimated_km: 68
+[2025-09-04 19:01:57] Tura 412: parsovani kodovi: 213934
+[2025-09-04 19:01:57] Tura 412: pronađeno 0 objekata od 1 kodova
+[2025-09-04 19:01:57] Tura 412: nedostaju objekti: 213934
+[2025-09-04 19:01:57] Nije moguće izračunati kilometražu za turu 412 sa unloading_loc: TMO 213 934
+[2025-09-04 19:01:58] Tura 413: parsovani kodovi: 213936, 213946
+[2025-09-04 19:01:58] Tura 413: pronađeno 0 objekata od 2 kodova
+[2025-09-04 19:01:58] Tura 413: nedostaju objekti: 213936, 213946
+[2025-09-04 19:01:58] Nije moguće izračunati kilometražu za turu 413 sa unloading_loc: TMO 213 936,TMO 213 946,TMO 213 R45
+[2025-09-04 19:01:59] Tura 408: parsovani kodovi: 215073, 216322, 216327, 216926, 216382, 213638, 213182, 215109, 216534, 213171, 216675
+[2025-09-04 19:01:59] Tura 408: pronađeno 11 objekata od 11 kodova
+[2025-09-04 19:01:59] Tura 408: pronađeni objekti: 213 171, 213 182, 213 638, 215 073, 215 109, 216 322, 216 327, 216 382, 216 534, 216 675, 216 926
+[2025-09-04 19:01:59] Uspešno ažurirano za turu 408: 117 km
+[2025-09-04 19:01:59] Verifikacija - tura 408 ima estimated_km: 117
+[2025-09-04 19:02:00] Tura 411: parsovani kodovi: 213636, 213632, 213696, 213744, 213745, 213699, 213139, 216534
+[2025-09-04 19:02:00] Tura 411: pronađeno 8 objekata od 8 kodova
+[2025-09-04 19:02:00] Tura 411: pronađeni objekti: 213 139, 213 632, 213 636, 213 696, 213 699, 213 744, 213 745, 216 534
+[2025-09-04 19:02:01] Uspešno ažurirano za turu 411: 94 km
+[2025-09-04 19:02:01] Verifikacija - tura 411 ima estimated_km: 94
+[2025-09-04 19:02:02] Tura 405: parsovani kodovi: 216502, 216510, 213272, 213637
+[2025-09-04 19:02:02] Tura 405: pronađeno 4 objekata od 4 kodova
+[2025-09-04 19:02:02] Tura 405: pronađeni objekti: 213 272, 213 637, 216 502, 216 510
+[2025-09-04 19:02:02] Uspešno ažurirano za turu 405: 79 km
+[2025-09-04 19:02:02] Verifikacija - tura 405 ima estimated_km: 79
+[2025-09-04 19:02:03] Tura 404: parsovani kodovi: 213601, 213190, 216670, 213115
+[2025-09-04 19:02:03] Tura 404: pronađeno 4 objekata od 4 kodova
+[2025-09-04 19:02:03] Tura 404: pronađeni objekti: 213 115, 213 190, 213 601, 216 670
+[2025-09-04 19:02:03] Uspešno ažurirano za turu 404: 83 km
+[2025-09-04 19:02:03] Verifikacija - tura 404 ima estimated_km: 83
+[2025-09-04 19:02:04] Tura 407: parsovani kodovi: 213934
+[2025-09-04 19:02:04] Tura 407: pronađeno 0 objekata od 1 kodova
+[2025-09-04 19:02:04] Tura 407: nedostaju objekti: 213934
+[2025-09-04 19:02:04] Nije moguće izračunati kilometražu za turu 407 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-09-04 19:02:05] Tura 406: parsovani kodovi: 213934
+[2025-09-04 19:02:05] Tura 406: pronađeno 0 objekata od 1 kodova
+[2025-09-04 19:02:05] Tura 406: nedostaju objekti: 213934
+[2025-09-04 19:02:05] Nije moguće izračunati kilometražu za turu 406 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-09-04 19:02:06] Tura 403: parsovani kodovi: 213292, 213198, 213757, 213263, 215138, 213668, 215193, 215044, 215048
+[2025-09-04 19:02:06] Tura 403: pronađeno 9 objekata od 9 kodova
+[2025-09-04 19:02:06] Tura 403: pronađeni objekti: 213 198, 213 263, 213 292, 213 668, 213 757, 215 044, 215 048, 215 138, 215 193
+[2025-09-04 19:02:06] Uspešno ažurirano za turu 403: 227 km
+[2025-09-04 19:02:06] Verifikacija - tura 403 ima estimated_km: 227
+[2025-09-04 19:02:07] Tura 402: parsovani kodovi: 215047, 215143, 216229, 216230, 216225, 213744, 213686, 213696, 213745, 216239, 216246, 213199, 215158, 216675, 213648, 213116, 213600, 215152
+[2025-09-04 19:02:07] Tura 402: pronađeno 18 objekata od 18 kodova
+[2025-09-04 19:02:07] Tura 402: pronađeni objekti: 213 116, 213 199, 213 600, 213 648, 213 686, 213 696, 213 744, 213 745, 215 047, 215 143, 215 152, 215 158, 216 225, 216 229, 216 230, 216 239, 216 246, 216 675
+[2025-09-04 19:02:07] Uspešno ažurirano za turu 402: 160 km
+[2025-09-04 19:02:07] Verifikacija - tura 402 ima estimated_km: 160
+[2025-09-04 19:02:08] Tura 397: parsovani kodovi: 216238, 216310, 213636, 213765, 215252, 213796, 215191
+[2025-09-04 19:02:08] Tura 397: pronađeno 7 objekata od 7 kodova
+[2025-09-04 19:02:08] Tura 397: pronađeni objekti: 213 636, 213 765, 213 796, 215 191, 215 252, 216 238, 216 310
+[2025-09-04 19:02:09] Uspešno ažurirano za turu 397: 113 km
+[2025-09-04 19:02:09] Verifikacija - tura 397 ima estimated_km: 113
+[2025-09-04 19:02:10] Tura 396: parsovani kodovi: 213135, 213168, 215141, 216675, 216235
+[2025-09-04 19:02:10] Tura 396: pronađeno 5 objekata od 5 kodova
+[2025-09-04 19:02:10] Tura 396: pronađeni objekti: 213 135, 213 168, 215 141, 216 235, 216 675
+[2025-09-04 19:02:10] Uspešno ažurirano za turu 396: 125 km
+[2025-09-04 19:02:10] Verifikacija - tura 396 ima estimated_km: 125
+[2025-09-04 19:02:11] Tura 398: parsovani kodovi: 213934
+[2025-09-04 19:02:11] Tura 398: pronađeno 0 objekata od 1 kodova
+[2025-09-04 19:02:11] Tura 398: nedostaju objekti: 213934
+[2025-09-04 19:02:11] Nije moguće izračunati kilometražu za turu 398 sa unloading_loc: TMO 213 934
+[2025-09-04 19:02:12] Tura 399: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-09-04 19:02:12] Nije moguće izračunati kilometražu za turu 399 sa unloading_loc: TMO 213 R45
+[2025-09-04 19:02:13] Tura 400: parsovani kodovi: 216266, 215056, 213666, 215100, 215031, 213629, 216382, 213628, 216242, 215109, 215286, 213776, 215156
+[2025-09-04 19:02:13] Tura 400: pronađeno 13 objekata od 13 kodova
+[2025-09-04 19:02:13] Tura 400: pronađeni objekti: 213 628, 213 629, 213 666, 213 776, 215 031, 215 056, 215 100, 215 109, 215 156, 215 286, 216 242, 216 266, 216 382
+[2025-09-04 19:02:13] Uspešno ažurirano za turu 400: 102 km
+[2025-09-04 19:02:13] Verifikacija - tura 400 ima estimated_km: 102
+[2025-09-04 19:02:14] Tura 401: parsovani kodovi: 216229, 216230, 215047, 216225, 213686, 213696, 213744, 213632, 213745, 213769, 213699
+[2025-09-04 19:02:14] Tura 401: pronađeno 11 objekata od 11 kodova
+[2025-09-04 19:02:14] Tura 401: pronađeni objekti: 213 632, 213 686, 213 696, 213 699, 213 744, 213 745, 213 769, 215 047, 216 225, 216 229, 216 230
+[2025-09-04 19:02:14] Uspešno ažurirano za turu 401: 94 km
+[2025-09-04 19:02:14] Verifikacija - tura 401 ima estimated_km: 94
+[2025-09-04 19:02:15] Tura 379: parsovani kodovi: 213934
+[2025-09-04 19:02:15] Tura 379: pronađeno 0 objekata od 1 kodova
+[2025-09-04 19:02:15] Tura 379: nedostaju objekti: 213934
+[2025-09-04 19:02:15] Nije moguće izračunati kilometražu za turu 379 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-09-04 19:02:16] Tura 346: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-09-04 19:02:16] Nije moguće izračunati kilometražu za turu 346 sa unloading_loc: TMO 213 AMP
+[2025-09-04 19:02:17] Tura 345: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-09-04 19:02:17] Nije moguće izračunati kilometražu za turu 345 sa unloading_loc: TMO 213 R45
+[2025-09-04 19:02:18] Tura 336: parsovani kodovi: 213934
+[2025-09-04 19:02:18] Tura 336: pronađeno 0 objekata od 1 kodova
+[2025-09-04 19:02:18] Tura 336: nedostaju objekti: 213934
+[2025-09-04 19:02:18] Nije moguće izračunati kilometražu za turu 336 sa unloading_loc: TMO 213 934
+[2025-09-04 19:02:19] Tura 338: nisu pronađeni validni kodovi u: Nova Pazova, NBG
+[2025-09-04 19:02:19] Nije moguće izračunati kilometražu za turu 338 sa unloading_loc: Nova Pazova, NBG
+[2025-09-04 19:02:20] Tura 291: parsovani kodovi: 213934
+[2025-09-04 19:02:20] Tura 291: pronađeno 0 objekata od 1 kodova
+[2025-09-04 19:02:20] Tura 291: nedostaju objekti: 213934
+[2025-09-04 19:02:20] Nije moguće izračunati kilometražu za turu 291 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-09-04 19:02:21] Tura 296: nisu pronađeni validni kodovi u: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-09-04 19:02:21] Nije moguće izračunati kilometražu za turu 296 sa unloading_loc: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-09-04 19:02:22] Tura 252: parsovani kodovi: 213946, 213936
+[2025-09-04 19:02:22] Tura 252: pronađeno 0 objekata od 2 kodova
+[2025-09-04 19:02:22] Tura 252: nedostaju objekti: 213946, 213936
+[2025-09-04 19:02:22] Nije moguće izračunati kilometražu za turu 252 sa unloading_loc: TMO 213 946,TMO 213 936
+[2025-09-04 19:02:23] Tura 238: nisu pronađeni validni kodovi u: Požarevac
+[2025-09-04 19:02:23] Nije moguće izračunati kilometražu za turu 238 sa unloading_loc: Požarevac
+[2025-09-04 19:02:24] Ažuriranje završeno. Ukupno ažurirano: 12 tura
+[2025-09-08 01:04:02] Pokretanje ažuriranja procenjene kilometraže
+[2025-09-08 01:04:02] Kolona 'estimated_km' postoji u tabeli
+[2025-09-08 01:04:02] Ukupno tura u bazi: 332
+[2025-09-08 01:04:02] Tura sa unloading_loc: 328
+[2025-09-08 01:04:02] Tura bez estimated_km: 215
+[2025-09-08 01:04:02] Pronađeno je 29 tura za obradu
+[2025-09-08 01:04:02] Debug tura ID 425: estimated_km=0, unloading_loc length=47
+[2025-09-08 01:04:02] Debug tura ID 426: estimated_km=0, unloading_loc length=59
+[2025-09-08 01:04:02] Debug tura ID 427: estimated_km=0, unloading_loc length=23
+[2025-09-08 01:04:02] Tura 425: parsovani kodovi: 216508, 216504, 216762, 216326
+[2025-09-08 01:04:02] Tura 425: pronađeno 4 objekata od 4 kodova
+[2025-09-08 01:04:02] Tura 425: pronađeni objekti: 216 326, 216 504, 216 508, 216 762
+[2025-09-08 01:04:02] Uspešno ažurirano za turu 425: 108 km
+[2025-09-08 01:04:02] Verifikacija - tura 425 ima estimated_km: 108
+[2025-09-08 01:04:03] Tura 426: parsovani kodovi: 216670, 216671, 213679, 213124, 213116
+[2025-09-08 01:04:03] Tura 426: pronađeno 5 objekata od 5 kodova
+[2025-09-08 01:04:03] Tura 426: pronađeni objekti: 213 116, 213 124, 213 679, 216 670, 216 671
+[2025-09-08 01:04:03] Uspešno ažurirano za turu 426: 106 km
+[2025-09-08 01:04:03] Verifikacija - tura 426 ima estimated_km: 106
+[2025-09-08 01:04:04] Tura 427: parsovani kodovi: 213934
+[2025-09-08 01:04:04] Tura 427: pronađeno 0 objekata od 1 kodova
+[2025-09-08 01:04:04] Tura 427: nedostaju objekti: 213934
+[2025-09-08 01:04:04] Nije moguće izračunati kilometražu za turu 427 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-09-08 01:04:05] Tura 423: parsovani kodovi: 213769, 216248, 213184, 213143, 213130
+[2025-09-08 01:04:05] Tura 423: pronađeno 5 objekata od 5 kodova
+[2025-09-08 01:04:05] Tura 423: pronađeni objekti: 213 130, 213 143, 213 184, 213 769, 216 248
+[2025-09-08 01:04:05] Uspešno ažurirano za turu 423: 117 km
+[2025-09-08 01:04:05] Verifikacija - tura 423 ima estimated_km: 117
+[2025-09-08 01:04:06] Tura 424: parsovani kodovi: 216442, 216782, 216775, 215076, 213633, 213145
+[2025-09-08 01:04:07] Tura 424: pronađeno 6 objekata od 6 kodova
+[2025-09-08 01:04:07] Tura 424: pronađeni objekti: 213 145, 213 633, 215 076, 216 442, 216 775, 216 782
+[2025-09-08 01:04:07] Uspešno ažurirano za turu 424: 90 km
+[2025-09-08 01:04:07] Verifikacija - tura 424 ima estimated_km: 90
+[2025-09-08 01:04:08] Tura 420: parsovani kodovi: 213131, 213141, 216326, 213600
+[2025-09-08 01:04:08] Tura 420: pronađeno 4 objekata od 4 kodova
+[2025-09-08 01:04:08] Tura 420: pronađeni objekti: 213 131, 213 141, 213 600, 216 326
+[2025-09-08 01:04:08] Uspešno ažurirano za turu 420: 99 km
+[2025-09-08 01:04:08] Verifikacija - tura 420 ima estimated_km: 99
+[2025-09-08 01:04:09] Tura 421: parsovani kodovi: 213946, 213936
+[2025-09-08 01:04:09] Tura 421: pronađeno 0 objekata od 2 kodova
+[2025-09-08 01:04:09] Tura 421: nedostaju objekti: 213946, 213936
+[2025-09-08 01:04:09] Nije moguće izračunati kilometražu za turu 421 sa unloading_loc: TMO 213 946,TMO 213 936
+[2025-09-08 01:04:10] Tura 422: parsovani kodovi: 213632, 213744, 215284, 216239, 216248, 213199, 213175, 216675, 213116, 213600
+[2025-09-08 01:04:10] Tura 422: pronađeno 10 objekata od 10 kodova
+[2025-09-08 01:04:10] Tura 422: pronađeni objekti: 213 116, 213 175, 213 199, 213 600, 213 632, 213 744, 215 284, 216 239, 216 248, 216 675
+[2025-09-08 01:04:10] Uspešno ažurirano za turu 422: 132 km
+[2025-09-08 01:04:10] Verifikacija - tura 422 ima estimated_km: 132
+[2025-09-08 01:04:11] Tura 416: parsovani kodovi: 213699, 215284, 215156, 213776, 213184
+[2025-09-08 01:04:11] Tura 416: pronađeno 5 objekata od 5 kodova
+[2025-09-08 01:04:11] Tura 416: pronađeni objekti: 213 184, 213 699, 213 776, 215 156, 215 284
+[2025-09-08 01:04:11] Uspešno ažurirano za turu 416: 94 km
+[2025-09-08 01:04:11] Verifikacija - tura 416 ima estimated_km: 94
+[2025-09-08 01:04:12] Tura 415: parsovani kodovi: 213764, 213651, 216986
+[2025-09-08 01:04:12] Tura 415: pronađeno 3 objekata od 3 kodova
+[2025-09-08 01:04:12] Tura 415: pronađeni objekti: 213 651, 213 764, 216 986
+[2025-09-08 01:04:12] Uspešno ažurirano za turu 415: 88 km
+[2025-09-08 01:04:12] Verifikacija - tura 415 ima estimated_km: 88
+[2025-09-08 01:04:13] Tura 418: parsovani kodovi: 213936, 213946
+[2025-09-08 01:04:13] Tura 418: pronađeno 0 objekata od 2 kodova
+[2025-09-08 01:04:13] Tura 418: nedostaju objekti: 213936, 213946
+[2025-09-08 01:04:13] Nije moguće izračunati kilometražu za turu 418 sa unloading_loc: TMO 213 936,TMO 213 946
+[2025-09-08 01:04:14] Tura 419: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-09-08 01:04:14] Nije moguće izračunati kilometražu za turu 419 sa unloading_loc: TMO 213 R45
+[2025-09-08 01:04:15] Tura 417: parsovani kodovi: 216506, 216606, 213672, 216236, 213188, 216237, 213128, 213773, 216381, 216246, 216239, 216248
+[2025-09-08 01:04:15] Tura 417: pronađeno 12 objekata od 12 kodova
+[2025-09-08 01:04:15] Tura 417: pronađeni objekti: 213 128, 213 188, 213 672, 213 773, 216 236, 216 237, 216 239, 216 246, 216 248, 216 381, 216 506, 216 606
+[2025-09-08 01:04:16] Uspešno ažurirano za turu 417: 132 km
+[2025-09-08 01:04:16] Verifikacija - tura 417 ima estimated_km: 132
+[2025-09-08 01:04:17] Tura 414: parsovani kodovi: 216221, 215288, 215224, 216218, 214001, 213178, 213722, 215083, 215066
+[2025-09-08 01:04:17] Tura 414: pronađeno 9 objekata od 9 kodova
+[2025-09-08 01:04:17] Tura 414: pronađeni objekti: 213 178, 213 722, 214 001, 215 066, 215 083, 215 224, 215 288, 216 218, 216 221
+[2025-09-08 01:04:17] Uspešno ažurirano za turu 414: 105 km
+[2025-09-08 01:04:17] Verifikacija - tura 414 ima estimated_km: 105
+[2025-09-08 01:04:18] Tura 412: parsovani kodovi: 213934
+[2025-09-08 01:04:18] Tura 412: pronađeno 0 objekata od 1 kodova
+[2025-09-08 01:04:18] Tura 412: nedostaju objekti: 213934
+[2025-09-08 01:04:18] Nije moguće izračunati kilometražu za turu 412 sa unloading_loc: TMO 213 934
+[2025-09-08 01:04:19] Tura 413: parsovani kodovi: 213936, 213946
+[2025-09-08 01:04:19] Tura 413: pronađeno 0 objekata od 2 kodova
+[2025-09-08 01:04:19] Tura 413: nedostaju objekti: 213936, 213946
+[2025-09-08 01:04:19] Nije moguće izračunati kilometražu za turu 413 sa unloading_loc: TMO 213 936,TMO 213 946,TMO 213 R45
+[2025-09-08 01:04:20] Tura 407: parsovani kodovi: 213934
+[2025-09-08 01:04:20] Tura 407: pronađeno 0 objekata od 1 kodova
+[2025-09-08 01:04:20] Tura 407: nedostaju objekti: 213934
+[2025-09-08 01:04:20] Nije moguće izračunati kilometražu za turu 407 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-09-08 01:04:21] Tura 406: parsovani kodovi: 213934
+[2025-09-08 01:04:21] Tura 406: pronađeno 0 objekata od 1 kodova
+[2025-09-08 01:04:21] Tura 406: nedostaju objekti: 213934
+[2025-09-08 01:04:21] Nije moguće izračunati kilometražu za turu 406 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-09-08 01:04:22] Tura 398: parsovani kodovi: 213934
+[2025-09-08 01:04:22] Tura 398: pronađeno 0 objekata od 1 kodova
+[2025-09-08 01:04:22] Tura 398: nedostaju objekti: 213934
+[2025-09-08 01:04:22] Nije moguće izračunati kilometražu za turu 398 sa unloading_loc: TMO 213 934
+[2025-09-08 01:04:23] Tura 399: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-09-08 01:04:23] Nije moguće izračunati kilometražu za turu 399 sa unloading_loc: TMO 213 R45
+[2025-09-08 01:04:24] Tura 379: parsovani kodovi: 213934
+[2025-09-08 01:04:24] Tura 379: pronađeno 0 objekata od 1 kodova
+[2025-09-08 01:04:24] Tura 379: nedostaju objekti: 213934
+[2025-09-08 01:04:24] Nije moguće izračunati kilometražu za turu 379 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-09-08 01:04:25] Tura 346: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-09-08 01:04:25] Nije moguće izračunati kilometražu za turu 346 sa unloading_loc: TMO 213 AMP
+[2025-09-08 01:04:26] Tura 345: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-09-08 01:04:26] Nije moguće izračunati kilometražu za turu 345 sa unloading_loc: TMO 213 R45
+[2025-09-08 01:04:27] Tura 336: parsovani kodovi: 213934
+[2025-09-08 01:04:27] Tura 336: pronađeno 0 objekata od 1 kodova
+[2025-09-08 01:04:27] Tura 336: nedostaju objekti: 213934
+[2025-09-08 01:04:27] Nije moguće izračunati kilometražu za turu 336 sa unloading_loc: TMO 213 934
+[2025-09-08 01:04:28] Tura 338: nisu pronađeni validni kodovi u: Nova Pazova, NBG
+[2025-09-08 01:04:28] Nije moguće izračunati kilometražu za turu 338 sa unloading_loc: Nova Pazova, NBG
+[2025-09-08 01:04:29] Tura 291: parsovani kodovi: 213934
+[2025-09-08 01:04:29] Tura 291: pronađeno 0 objekata od 1 kodova
+[2025-09-08 01:04:29] Tura 291: nedostaju objekti: 213934
+[2025-09-08 01:04:29] Nije moguće izračunati kilometražu za turu 291 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-09-08 01:04:30] Tura 296: nisu pronađeni validni kodovi u: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-09-08 01:04:30] Nije moguće izračunati kilometražu za turu 296 sa unloading_loc: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-09-08 01:04:31] Tura 252: parsovani kodovi: 213946, 213936
+[2025-09-08 01:04:31] Tura 252: pronađeno 0 objekata od 2 kodova
+[2025-09-08 01:04:31] Tura 252: nedostaju objekti: 213946, 213936
+[2025-09-08 01:04:31] Nije moguće izračunati kilometražu za turu 252 sa unloading_loc: TMO 213 946,TMO 213 936
+[2025-09-08 01:04:32] Tura 238: nisu pronađeni validni kodovi u: Požarevac
+[2025-09-08 01:04:32] Nije moguće izračunati kilometražu za turu 238 sa unloading_loc: Požarevac
+[2025-09-08 01:04:33] Ažuriranje završeno. Ukupno ažurirano: 10 tura
+[2025-09-12 13:07:23] Pokretanje ažuriranja procenjene kilometraže
+[2025-09-12 13:07:23] Kolona 'estimated_km' postoji u tabeli
+[2025-09-12 13:07:23] Ukupno tura u bazi: 345
+[2025-09-12 13:07:23] Tura sa unloading_loc: 341
+[2025-09-12 13:07:23] Tura bez estimated_km: 218
+[2025-09-12 13:07:23] Pronađeno je 32 tura za obradu
+[2025-09-12 13:07:23] Debug tura ID 446: estimated_km=0, unloading_loc length=107
+[2025-09-12 13:07:23] Debug tura ID 445: estimated_km=0, unloading_loc length=203
+[2025-09-12 13:07:23] Debug tura ID 443: estimated_km=0, unloading_loc length=95
+[2025-09-12 13:07:23] Tura 446: parsovani kodovi: 213776, 213114, 213722, 216310, 213195, 213651, 216603, 216501, 216218
+[2025-09-12 13:07:23] Tura 446: pronađeno 9 objekata od 9 kodova
+[2025-09-12 13:07:23] Tura 446: pronađeni objekti: 213 114, 213 195, 213 651, 213 722, 213 776, 216 218, 216 310, 216 501, 216 603
+[2025-09-12 13:07:24] Uspešno ažurirano za turu 446: 104 km
+[2025-09-12 13:07:24] Verifikacija - tura 446 ima estimated_km: 104
+[2025-09-12 13:07:25] Tura 445: parsovani kodovi: 216268, 213634, 216279, 216288, 216219, 215006, 213764, 216220, 215159, 216207, 216267, 215160, 213624, 215013, 216986, 215224, 213636
+[2025-09-12 13:07:25] Tura 445: pronađeno 17 objekata od 17 kodova
+[2025-09-12 13:07:25] Tura 445: pronađeni objekti: 213 624, 213 634, 213 636, 213 764, 215 006, 215 013, 215 159, 215 160, 215 224, 216 207, 216 219, 216 220, 216 267, 216 268, 216 279, 216 288, 216 986
+[2025-09-12 13:07:25] Uspešno ažurirano za turu 445: 113 km
+[2025-09-12 13:07:25] Verifikacija - tura 445 ima estimated_km: 113
+[2025-09-12 13:07:26] Tura 443: parsovani kodovi: 213178, 213624, 213194, 216501, 213765, 216986, 216207, 213140
+[2025-09-12 13:07:26] Tura 443: pronađeno 8 objekata od 8 kodova
+[2025-09-12 13:07:26] Tura 443: pronađeni objekti: 213 140, 213 178, 213 194, 213 624, 213 765, 216 207, 216 501, 216 986
+[2025-09-12 13:07:26] Uspešno ažurirano za turu 443: 134 km
+[2025-09-12 13:07:26] Verifikacija - tura 443 ima estimated_km: 134
+[2025-09-12 13:07:27] Tura 444: nisu pronađeni validni kodovi u: Resnik, Voždovac
+[2025-09-12 13:07:27] Nije moguće izračunati kilometražu za turu 444 sa unloading_loc: Resnik, Voždovac
+[2025-09-12 13:07:28] Tura 442: parsovani kodovi: 213639, 216322, 216332, 216327, 216926, 213183, 216382, 213636, 216243, 216304, 213182, 213638, 216961, 213129
+[2025-09-12 13:07:28] Tura 442: pronađeno 14 objekata od 14 kodova
+[2025-09-12 13:07:28] Tura 442: pronađeni objekti: 213 129, 213 182, 213 183, 213 636, 213 638, 213 639, 216 243, 216 304, 216 322, 216 327, 216 332, 216 382, 216 926, 216 961
+[2025-09-12 13:07:28] Uspešno ažurirano za turu 442: 123 km
+[2025-09-12 13:07:28] Verifikacija - tura 442 ima estimated_km: 123
+[2025-09-12 13:07:29] Tura 441: parsovani kodovi: 213794, 216795
+[2025-09-12 13:07:29] Tura 441: pronađeno 2 objekata od 2 kodova
+[2025-09-12 13:07:29] Tura 441: pronađeni objekti: 213 794, 216 795
+[2025-09-12 13:07:30] Uspešno ažurirano za turu 441: 187 km
+[2025-09-12 13:07:30] Verifikacija - tura 441 ima estimated_km: 187
+[2025-09-12 13:07:31] Tura 440: nisu pronađeni validni kodovi u: Sremčica, Barajevo
+[2025-09-12 13:07:31] Nije moguće izračunati kilometražu za turu 440 sa unloading_loc: Sremčica, Barajevo
+[2025-09-12 13:07:32] Tura 439: nisu pronađeni validni kodovi u: Voždove kapije
+[2025-09-12 13:07:32] Nije moguće izračunati kilometražu za turu 439 sa unloading_loc: Voždove kapije
+[2025-09-12 13:07:33] Tura 430: parsovani kodovi: 216201, 216204, 213134, 213107
+[2025-09-12 13:07:33] Tura 430: pronađeno 4 objekata od 4 kodova
+[2025-09-12 13:07:33] Tura 430: pronađeni objekti: 213 107, 213 134, 216 201, 216 204
+[2025-09-12 13:07:33] Uspešno ažurirano za turu 430: 99 km
+[2025-09-12 13:07:33] Verifikacija - tura 430 ima estimated_km: 99
+[2025-09-12 13:07:34] Tura 432: parsovani kodovi: 213934
+[2025-09-12 13:07:34] Tura 432: pronađeno 0 objekata od 1 kodova
+[2025-09-12 13:07:34] Tura 432: nedostaju objekti: 213934
+[2025-09-12 13:07:34] Nije moguće izračunati kilometražu za turu 432 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-09-12 13:07:35] Tura 435: parsovani kodovi: 216502, 213757, 213756, 216493, 213179, 213773
+[2025-09-12 13:07:35] Tura 435: pronađeno 6 objekata od 6 kodova
+[2025-09-12 13:07:35] Tura 435: pronađeni objekti: 213 179, 213 756, 213 757, 213 773, 216 493, 216 502
+[2025-09-12 13:07:35] Uspešno ažurirano za turu 435: 114 km
+[2025-09-12 13:07:35] Verifikacija - tura 435 ima estimated_km: 114
+[2025-09-12 13:07:36] Tura 429: parsovani kodovi: 216207, 213651, 213624, 213194, 215013, 216218, 216986, 213764
+[2025-09-12 13:07:36] Tura 429: pronađeno 8 objekata od 8 kodova
+[2025-09-12 13:07:36] Tura 429: pronađeni objekti: 213 194, 213 624, 213 651, 213 764, 215 013, 216 207, 216 218, 216 986
+[2025-09-12 13:07:36] Uspešno ažurirano za turu 429: 95 km
+[2025-09-12 13:07:36] Verifikacija - tura 429 ima estimated_km: 95
+[2025-09-12 13:07:37] Tura 428: parsovani kodovi: 216442, 216782, 216775, 215076, 213633, 213145
+[2025-09-12 13:07:37] Tura 428: pronađeno 6 objekata od 6 kodova
+[2025-09-12 13:07:37] Tura 428: pronađeni objekti: 213 145, 213 633, 215 076, 216 442, 216 775, 216 782
+[2025-09-12 13:07:37] Uspešno ažurirano za turu 428: 90 km
+[2025-09-12 13:07:37] Verifikacija - tura 428 ima estimated_km: 90
+[2025-09-12 13:07:38] Tura 427: parsovani kodovi: 213934
+[2025-09-12 13:07:38] Tura 427: pronađeno 0 objekata od 1 kodova
+[2025-09-12 13:07:38] Tura 427: nedostaju objekti: 213934
+[2025-09-12 13:07:38] Nije moguće izračunati kilometražu za turu 427 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-09-12 13:07:39] Tura 421: parsovani kodovi: 213946, 213936
+[2025-09-12 13:07:39] Tura 421: pronađeno 0 objekata od 2 kodova
+[2025-09-12 13:07:39] Tura 421: nedostaju objekti: 213946, 213936
+[2025-09-12 13:07:39] Nije moguće izračunati kilometražu za turu 421 sa unloading_loc: TMO 213 946,TMO 213 936
+[2025-09-12 13:07:40] Tura 418: parsovani kodovi: 213936, 213946
+[2025-09-12 13:07:40] Tura 418: pronađeno 0 objekata od 2 kodova
+[2025-09-12 13:07:40] Tura 418: nedostaju objekti: 213936, 213946
+[2025-09-12 13:07:40] Nije moguće izračunati kilometražu za turu 418 sa unloading_loc: TMO 213 936,TMO 213 946
+[2025-09-12 13:07:41] Tura 419: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-09-12 13:07:41] Nije moguće izračunati kilometražu za turu 419 sa unloading_loc: TMO 213 R45
+[2025-09-12 13:07:42] Tura 412: parsovani kodovi: 213934
+[2025-09-12 13:07:42] Tura 412: pronađeno 0 objekata od 1 kodova
+[2025-09-12 13:07:42] Tura 412: nedostaju objekti: 213934
+[2025-09-12 13:07:42] Nije moguće izračunati kilometražu za turu 412 sa unloading_loc: TMO 213 934
+[2025-09-12 13:07:43] Tura 413: parsovani kodovi: 213936, 213946
+[2025-09-12 13:07:43] Tura 413: pronađeno 0 objekata od 2 kodova
+[2025-09-12 13:07:43] Tura 413: nedostaju objekti: 213936, 213946
+[2025-09-12 13:07:43] Nije moguće izračunati kilometražu za turu 413 sa unloading_loc: TMO 213 936,TMO 213 946,TMO 213 R45
+[2025-09-12 13:07:44] Tura 407: parsovani kodovi: 213934
+[2025-09-12 13:07:44] Tura 407: pronađeno 0 objekata od 1 kodova
+[2025-09-12 13:07:44] Tura 407: nedostaju objekti: 213934
+[2025-09-12 13:07:44] Nije moguće izračunati kilometražu za turu 407 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-09-12 13:07:45] Tura 406: parsovani kodovi: 213934
+[2025-09-12 13:07:45] Tura 406: pronađeno 0 objekata od 1 kodova
+[2025-09-12 13:07:45] Tura 406: nedostaju objekti: 213934
+[2025-09-12 13:07:45] Nije moguće izračunati kilometražu za turu 406 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-09-12 13:07:46] Tura 398: parsovani kodovi: 213934
+[2025-09-12 13:07:46] Tura 398: pronađeno 0 objekata od 1 kodova
+[2025-09-12 13:07:46] Tura 398: nedostaju objekti: 213934
+[2025-09-12 13:07:46] Nije moguće izračunati kilometražu za turu 398 sa unloading_loc: TMO 213 934
+[2025-09-12 13:07:47] Tura 399: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-09-12 13:07:47] Nije moguće izračunati kilometražu za turu 399 sa unloading_loc: TMO 213 R45
+[2025-09-12 13:07:48] Tura 379: parsovani kodovi: 213934
+[2025-09-12 13:07:48] Tura 379: pronađeno 0 objekata od 1 kodova
+[2025-09-12 13:07:48] Tura 379: nedostaju objekti: 213934
+[2025-09-12 13:07:48] Nije moguće izračunati kilometražu za turu 379 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-09-12 13:07:49] Tura 346: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-09-12 13:07:49] Nije moguće izračunati kilometražu za turu 346 sa unloading_loc: TMO 213 AMP
+[2025-09-12 13:07:50] Tura 345: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-09-12 13:07:50] Nije moguće izračunati kilometražu za turu 345 sa unloading_loc: TMO 213 R45
+[2025-09-12 13:07:51] Tura 336: parsovani kodovi: 213934
+[2025-09-12 13:07:51] Tura 336: pronađeno 0 objekata od 1 kodova
+[2025-09-12 13:07:51] Tura 336: nedostaju objekti: 213934
+[2025-09-12 13:07:51] Nije moguće izračunati kilometražu za turu 336 sa unloading_loc: TMO 213 934
+[2025-09-12 13:07:52] Tura 338: nisu pronađeni validni kodovi u: Nova Pazova, NBG
+[2025-09-12 13:07:52] Nije moguće izračunati kilometražu za turu 338 sa unloading_loc: Nova Pazova, NBG
+[2025-09-12 13:07:53] Tura 291: parsovani kodovi: 213934
+[2025-09-12 13:07:53] Tura 291: pronađeno 0 objekata od 1 kodova
+[2025-09-12 13:07:53] Tura 291: nedostaju objekti: 213934
+[2025-09-12 13:07:53] Nije moguće izračunati kilometražu za turu 291 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-09-12 13:07:54] Tura 296: nisu pronađeni validni kodovi u: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-09-12 13:07:54] Nije moguće izračunati kilometražu za turu 296 sa unloading_loc: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-09-12 13:07:55] Tura 252: parsovani kodovi: 213946, 213936
+[2025-09-12 13:07:55] Tura 252: pronađeno 0 objekata od 2 kodova
+[2025-09-12 13:07:55] Tura 252: nedostaju objekti: 213946, 213936
+[2025-09-12 13:07:55] Nije moguće izračunati kilometražu za turu 252 sa unloading_loc: TMO 213 946,TMO 213 936
+[2025-09-12 13:07:56] Tura 238: nisu pronađeni validni kodovi u: Požarevac
+[2025-09-12 13:07:56] Nije moguće izračunati kilometražu za turu 238 sa unloading_loc: Požarevac
+[2025-09-12 13:07:57] Ažuriranje završeno. Ukupno ažurirano: 9 tura
+[2025-10-03 00:52:19] Pokretanje ažuriranja procenjene kilometraže
+[2025-10-03 00:52:19] Kolona 'estimated_km' postoji u tabeli
+[2025-10-03 00:52:19] Ukupno tura u bazi: 398
+[2025-10-03 00:52:19] Tura sa unloading_loc: 394
+[2025-10-03 00:52:19] Tura bez estimated_km: 262
+[2025-10-03 00:52:19] Pronađeno je 76 tura za obradu
+[2025-10-03 00:52:19] Debug tura ID 499: estimated_km=0, unloading_loc length=71
+[2025-10-03 00:52:19] Debug tura ID 501: estimated_km=0, unloading_loc length=9
+[2025-10-03 00:52:19] Debug tura ID 497: estimated_km=0, unloading_loc length=107
+[2025-10-03 00:52:19] Tura 499: parsovani kodovi: 213603, 213602, 213605, 213604, 213609
+[2025-10-03 00:52:19] Tura 499: pronađeno 5 objekata od 5 kodova
+[2025-10-03 00:52:19] Tura 499: pronađeni objekti: 213 602, 213 603, 213 604, 213 605, 213 609
+[2025-10-03 00:52:19] Uspešno ažurirano za turu 499: 128 km
+[2025-10-03 00:52:19] Verifikacija - tura 499 ima estimated_km: 128
+[2025-10-03 00:52:20] Tura 501: nisu pronađeni validni kodovi u: Obrenovac
+[2025-10-03 00:52:20] Nije moguće izračunati kilometražu za turu 501 sa unloading_loc: Obrenovac
+[2025-10-03 00:52:21] Tura 497: parsovani kodovi: 215100, 215109, 216984, 213666, 216332, 216322, 213764, 216217, 215156
+[2025-10-03 00:52:21] Tura 497: pronađeno 9 objekata od 9 kodova
+[2025-10-03 00:52:21] Tura 497: pronađeni objekti: 213 666, 213 764, 215 100, 215 109, 215 156, 216 217, 216 322, 216 332, 216 984
+[2025-10-03 00:52:21] Uspešno ažurirano za turu 497: 100 km
+[2025-10-03 00:52:21] Verifikacija - tura 497 ima estimated_km: 100
+[2025-10-03 00:52:22] Tura 498: parsovani kodovi: 213221, 215078
+[2025-10-03 00:52:22] Tura 498: pronađeno 2 objekata od 2 kodova
+[2025-10-03 00:52:22] Tura 498: pronađeni objekti: 213 221, 215 078
+[2025-10-03 00:52:22] Uspešno ažurirano za turu 498: 122 km
+[2025-10-03 00:52:22] Verifikacija - tura 498 ima estimated_km: 122
+[2025-10-03 00:52:23] Tura 500: nisu pronađeni validni kodovi u: PADINSKA SKELA
+[2025-10-03 00:52:23] Nije moguće izračunati kilometražu za turu 500 sa unloading_loc: PADINSKA SKELA
+[2025-10-03 00:52:24] Tura 496: parsovani kodovi: 213639, 215159, 216322, 216332, 216327, 213638, 215073, 216984, 216534, 213686, 213690, 213292
+[2025-10-03 00:52:24] Tura 496: pronađeno 12 objekata od 12 kodova
+[2025-10-03 00:52:24] Tura 496: pronađeni objekti: 213 292, 213 638, 213 639, 213 686, 213 690, 215 073, 215 159, 216 322, 216 327, 216 332, 216 534, 216 984
+[2025-10-03 00:52:25] Uspešno ažurirano za turu 496: 129 km
+[2025-10-03 00:52:25] Verifikacija - tura 496 ima estimated_km: 129
+[2025-10-03 00:52:26] Tura 493: parsovani kodovi: 213142, 215082, 215158, 215355, 213199, 216248
+[2025-10-03 00:52:26] Tura 493: pronađeno 6 objekata od 6 kodova
+[2025-10-03 00:52:26] Tura 493: pronađeni objekti: 213 142, 213 199, 215 082, 215 158, 215 355, 216 248
+[2025-10-03 00:52:26] Uspešno ažurirano za turu 493: 91 km
+[2025-10-03 00:52:26] Verifikacija - tura 493 ima estimated_km: 91
+[2025-10-03 00:52:27] Tura 492: parsovani kodovi: 215136, 216491, 215024, 216223, 216241, 213630, 213631, 213129, 216506
+[2025-10-03 00:52:27] Tura 492: pronađeno 9 objekata od 9 kodova
+[2025-10-03 00:52:27] Tura 492: pronađeni objekti: 213 129, 213 630, 213 631, 215 024, 215 136, 216 223, 216 241, 216 491, 216 506
+[2025-10-03 00:52:27] Uspešno ažurirano za turu 492: 104 km
+[2025-10-03 00:52:27] Verifikacija - tura 492 ima estimated_km: 104
+[2025-10-03 00:52:28] Tura 489: parsovani kodovi: 216221, 215224, 216217, 213653, 213172, 215252
+[2025-10-03 00:52:28] Tura 489: pronađeno 6 objekata od 6 kodova
+[2025-10-03 00:52:28] Tura 489: pronađeni objekti: 213 172, 213 653, 215 224, 215 252, 216 217, 216 221
+[2025-10-03 00:52:28] Uspešno ažurirano za turu 489: 107 km
+[2025-10-03 00:52:28] Verifikacija - tura 489 ima estimated_km: 107
+[2025-10-03 00:52:29] Tura 491: nisu pronađeni validni kodovi u: Ustanička, Mirijevo
+[2025-10-03 00:52:29] Nije moguće izračunati kilometražu za turu 491 sa unloading_loc: Ustanička, Mirijevo
+[2025-10-03 00:52:30] Tura 490: parsovani kodovi: 216272, 216288, 215159, 216268, 215014, 215073, 213635, 213638, 215066, 216237, 216204, 215160, 215009, 213651
+[2025-10-03 00:52:30] Tura 490: pronađeno 14 objekata od 14 kodova
+[2025-10-03 00:52:30] Tura 490: pronađeni objekti: 213 635, 213 638, 213 651, 215 009, 215 014, 215 066, 215 073, 215 159, 215 160, 216 204, 216 237, 216 268, 216 272, 216 288
+[2025-10-03 00:52:30] Uspešno ažurirano za turu 490: 124 km
+[2025-10-03 00:52:30] Verifikacija - tura 490 ima estimated_km: 124
+[2025-10-03 00:52:31] Tura 486: parsovani kodovi: 213114, 216961, 213129, 216223, 216606, 216236
+[2025-10-03 00:52:31] Tura 486: pronađeno 6 objekata od 6 kodova
+[2025-10-03 00:52:31] Tura 486: pronađeni objekti: 213 114, 213 129, 216 223, 216 236, 216 606, 216 961
+[2025-10-03 00:52:32] Uspešno ažurirano za turu 486: 104 km
+[2025-10-03 00:52:32] Verifikacija - tura 486 ima estimated_km: 104
+[2025-10-03 00:52:33] Tura 488: parsovani kodovi: 213934
+[2025-10-03 00:52:33] Tura 488: pronađeno 0 objekata od 1 kodova
+[2025-10-03 00:52:33] Tura 488: nedostaju objekti: 213934
+[2025-10-03 00:52:33] Nije moguće izračunati kilometražu za turu 488 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-03 00:52:34] Tura 487: parsovani kodovi: 216413, 216782, 215076, 213756
+[2025-10-03 00:52:34] Tura 487: pronađeno 4 objekata od 4 kodova
+[2025-10-03 00:52:34] Tura 487: pronađeni objekti: 213 756, 215 076, 216 413, 216 782
+[2025-10-03 00:52:34] Uspešno ažurirano za turu 487: 87 km
+[2025-10-03 00:52:34] Verifikacija - tura 487 ima estimated_km: 87
+[2025-10-03 00:52:35] Tura 485: nisu pronađeni validni kodovi u: Dorćol
+[2025-10-03 00:52:35] Nije moguće izračunati kilometražu za turu 485 sa unloading_loc: Dorćol
+[2025-10-03 00:52:36] Tura 484: nisu pronađeni validni kodovi u: Šabac
+[2025-10-03 00:52:36] Nije moguće izračunati kilometražu za turu 484 sa unloading_loc: Šabac
+[2025-10-03 00:52:37] Tura 482: parsovani kodovi: 215047, 215056, 215072, 216201, 216221, 215288, 216211, 216986, 213624, 215193, 215110, 215044, 215048
+[2025-10-03 00:52:37] Tura 482: pronađeno 13 objekata od 13 kodova
+[2025-10-03 00:52:37] Tura 482: pronađeni objekti: 213 624, 215 044, 215 047, 215 048, 215 056, 215 072, 215 110, 215 193, 215 288, 216 201, 216 211, 216 221, 216 986
+[2025-10-03 00:52:37] Uspešno ažurirano za turu 482: 270 km
+[2025-10-03 00:52:37] Verifikacija - tura 482 ima estimated_km: 270
+[2025-10-03 00:52:38] Tura 481: parsovani kodovi: 216243, 213178, 213194, 216304, 213636, 215109, 216382, 213114, 216761, 216961
+[2025-10-03 00:52:38] Tura 481: pronađeno 10 objekata od 10 kodova
+[2025-10-03 00:52:38] Tura 481: pronađeni objekti: 213 114, 213 178, 213 194, 213 636, 215 109, 216 243, 216 304, 216 382, 216 761, 216 961
+[2025-10-03 00:52:38] Uspešno ažurirano za turu 481: 113 km
+[2025-10-03 00:52:38] Verifikacija - tura 481 ima estimated_km: 113
+[2025-10-03 00:52:39] Tura 494: nisu pronađeni validni kodovi u: Tadije Sondermajera 2G, Jurija Gagarina 28, Jurija Gagarina 277, Jurija Gagarina 259, Jurija Gagarina 187, Jurija Gagarina 14J, Jurija Gagarina 133, Jurija Gagarina 103
+[2025-10-03 00:52:39] Nije moguće izračunati kilometražu za turu 494 sa unloading_loc: Tadije Sondermajera 2G, Jurija Gagarina 28, Jurija Gagarina 277, Jurija Gagarina 259, Jurija Gagarina 187, Jurija Gagarina 14J, Jurija Gagarina 133, Jurija Gagarina 103
+[2025-10-03 00:52:40] Tura 480: parsovani kodovi: 215136, 216926, 213629, 213628, 213635, 216327, 215286, 215284, 213699, 213696, 213744, 213745
+[2025-10-03 00:52:40] Tura 480: pronađeno 12 objekata od 12 kodova
+[2025-10-03 00:52:40] Tura 480: pronađeni objekti: 213 628, 213 629, 213 635, 213 696, 213 699, 213 744, 213 745, 215 136, 215 284, 215 286, 216 327, 216 926
+[2025-10-03 00:52:40] Uspešno ažurirano za turu 480: 112 km
+[2025-10-03 00:52:40] Verifikacija - tura 480 ima estimated_km: 112
+[2025-10-03 00:52:41] Tura 479: parsovani kodovi: 213648, 216762, 213600, 216326
+[2025-10-03 00:52:41] Tura 479: pronađeno 4 objekata od 4 kodova
+[2025-10-03 00:52:41] Tura 479: pronađeni objekti: 213 600, 213 648, 216 326, 216 762
+[2025-10-03 00:52:42] Uspešno ažurirano za turu 479: 103 km
+[2025-10-03 00:52:42] Verifikacija - tura 479 ima estimated_km: 103
+[2025-10-03 00:52:43] Tura 478: parsovani kodovi: 213934
+[2025-10-03 00:52:43] Tura 478: pronađeno 0 objekata od 1 kodova
+[2025-10-03 00:52:43] Tura 478: nedostaju objekti: 213934
+[2025-10-03 00:52:43] Nije moguće izračunati kilometražu za turu 478 sa unloading_loc: TMO 213 934
+[2025-10-03 00:52:44] Tura 495: nisu pronađeni validni kodovi u: Tošin bunar 172, Pere Segedinca 13, Nehruova 49, Mileve Maric 58
+[2025-10-03 00:52:44] Nije moguće izračunati kilometražu za turu 495 sa unloading_loc: Tošin bunar 172, Pere Segedinca 13, Nehruova 49, Mileve Maric 58
+[2025-10-03 00:52:45] Tura 477: parsovani kodovi: 216250, 216201, 216229, 213744, 215284, 213776, 213145, 213641
+[2025-10-03 00:52:45] Tura 477: pronađeno 8 objekata od 8 kodova
+[2025-10-03 00:52:45] Tura 477: pronađeni objekti: 213 145, 213 641, 213 744, 213 776, 215 284, 216 201, 216 229, 216 250
+[2025-10-03 00:52:45] Uspešno ažurirano za turu 477: 96 km
+[2025-10-03 00:52:45] Verifikacija - tura 477 ima estimated_km: 96
+[2025-10-03 00:52:46] Tura 474: parsovani kodovi: 213632, 213764, 216304, 213636, 216310
+[2025-10-03 00:52:46] Tura 474: pronađeno 5 objekata od 5 kodova
+[2025-10-03 00:52:46] Tura 474: pronađeni objekti: 213 632, 213 636, 213 764, 216 304, 216 310
+[2025-10-03 00:52:46] Uspešno ažurirano za turu 474: 87 km
+[2025-10-03 00:52:46] Verifikacija - tura 474 ima estimated_km: 87
+[2025-10-03 00:52:47] Tura 475: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-10-03 00:52:47] Nije moguće izračunati kilometražu za turu 475 sa unloading_loc: TMO 213 R45
+[2025-10-03 00:52:48] Tura 476: nisu pronađeni validni kodovi u: SVETOG SAVE 2,
+DECKA 8,
+NOVO NASELJE BB,
+TRG SV.NIKOLAJA 1,
+KRNJESEVACKA 6,
+KRNJESEVACKA 62,
+Trg Svetog Nikolaja 10а,
+KRNJESEVACKA 2
+
+[2025-10-03 00:52:48] Nije moguće izračunati kilometražu za turu 476 sa unloading_loc: SVETOG SAVE 2,
+DECKA 8,
+NOVO NASELJE BB,
+TRG SV.NIKOLAJA 1,
+KRNJESEVACKA 6,
+KRNJESEVACKA 62,
+Trg Svetog Nikolaja 10а,
+KRNJESEVACKA 2
+
+[2025-10-03 00:52:49] Tura 473: parsovani kodovi: 215136, 213128, 213188, 215024, 216223, 216241, 213773, 213630, 213631, 213685, 216236
+[2025-10-03 00:52:49] Tura 473: pronađeno 11 objekata od 11 kodova
+[2025-10-03 00:52:49] Tura 473: pronađeni objekti: 213 128, 213 188, 213 630, 213 631, 213 685, 213 773, 215 024, 215 136, 216 223, 216 236, 216 241
+[2025-10-03 00:52:49] Uspešno ažurirano za turu 473: 117 km
+[2025-10-03 00:52:49] Verifikacija - tura 473 ima estimated_km: 117
+[2025-10-03 00:52:50] Tura 472: parsovani kodovi: 213223, 216306, 215233, 216684, 216444, 216782, 215370, 216626, 213641
+[2025-10-03 00:52:50] Tura 472: pronađeno 9 objekata od 9 kodova
+[2025-10-03 00:52:50] Tura 472: pronađeni objekti: 213 223, 213 641, 215 233, 215 370, 216 306, 216 444, 216 626, 216 684, 216 782
+[2025-10-03 00:52:50] Uspešno ažurirano za turu 472: 229 km
+[2025-10-03 00:52:50] Verifikacija - tura 472 ima estimated_km: 229
+[2025-10-03 00:52:51] Tura 471: parsovani kodovi: 216240, 216322, 216332, 216534, 213776, 213650, 216204, 213769
+[2025-10-03 00:52:51] Tura 471: pronađeno 8 objekata od 8 kodova
+[2025-10-03 00:52:51] Tura 471: pronađeni objekti: 213 650, 213 769, 213 776, 216 204, 216 240, 216 322, 216 332, 216 534
+[2025-10-03 00:52:52] Uspešno ažurirano za turu 471: 98 km
+[2025-10-03 00:52:52] Verifikacija - tura 471 ima estimated_km: 98
+[2025-10-03 00:52:53] Tura 470: parsovani kodovi: 213199, 215158, 216235, 216234, 216675, 216280, 213648, 213116, 213600, 215152, 213697, 213162, 213646
+[2025-10-03 00:52:53] Tura 470: pronađeno 13 objekata od 13 kodova
+[2025-10-03 00:52:53] Tura 470: pronađeni objekti: 213 116, 213 162, 213 199, 213 600, 213 646, 213 648, 213 697, 215 152, 215 158, 216 234, 216 235, 216 280, 216 675
+[2025-10-03 00:52:53] Uspešno ažurirano za turu 470: 230 km
+[2025-10-03 00:52:53] Verifikacija - tura 470 ima estimated_km: 230
+[2025-10-03 00:52:54] Tura 469: parsovani kodovi: 213686, 213744, 213769, 213632, 216501, 215160, 213178
+[2025-10-03 00:52:54] Tura 469: pronađeno 7 objekata od 7 kodova
+[2025-10-03 00:52:54] Tura 469: pronađeni objekti: 213 178, 213 632, 213 686, 213 744, 213 769, 215 160, 216 501
+[2025-10-03 00:52:54] Uspešno ažurirano za turu 469: 95 km
+[2025-10-03 00:52:54] Verifikacija - tura 469 ima estimated_km: 95
+[2025-10-03 00:52:55] Tura 466: parsovani kodovi: 213764, 216986, 216310, 216761
+[2025-10-03 00:52:55] Tura 466: pronađeno 4 objekata od 4 kodova
+[2025-10-03 00:52:55] Tura 466: pronađeni objekti: 213 764, 216 310, 216 761, 216 986
+[2025-10-03 00:52:55] Uspešno ažurirano za turu 466: 95 km
+[2025-10-03 00:52:55] Verifikacija - tura 466 ima estimated_km: 95
+[2025-10-03 00:52:56] Tura 467: parsovani kodovi: 213934
+[2025-10-03 00:52:56] Tura 467: pronađeno 0 objekata od 1 kodova
+[2025-10-03 00:52:56] Tura 467: nedostaju objekti: 213934
+[2025-10-03 00:52:56] Nije moguće izračunati kilometražu za turu 467 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-03 00:52:57] Tura 468: nisu pronađeni validni kodovi u: Prvomajska 118C, Ćirila i Metodija 2, Antifašističke borbe 48
+[2025-10-03 00:52:57] Nije moguće izračunati kilometražu za turu 468 sa unloading_loc: Prvomajska 118C, Ćirila i Metodija 2, Antifašističke borbe 48
+[2025-10-03 00:52:58] Tura 465: parsovani kodovi: 216210, 216202, 213634, 215014, 215006, 216219, 216207, 216220, 216267, 213624, 215047, 213762
+[2025-10-03 00:52:58] Tura 465: pronađeno 12 objekata od 12 kodova
+[2025-10-03 00:52:58] Tura 465: pronađeni objekti: 213 624, 213 634, 213 762, 215 006, 215 014, 215 047, 216 202, 216 207, 216 210, 216 219, 216 220, 216 267
+[2025-10-03 00:52:58] Uspešno ažurirano za turu 465: 127 km
+[2025-10-03 00:52:58] Verifikacija - tura 465 ima estimated_km: 127
+[2025-10-03 00:52:59] Tura 462: parsovani kodovi: 213190, 216803, 216764
+[2025-10-03 00:52:59] Tura 462: pronađeno 3 objekata od 3 kodova
+[2025-10-03 00:52:59] Tura 462: pronađeni objekti: 213 190, 216 764, 216 803
+[2025-10-03 00:53:00] Uspešno ažurirano za turu 462: 80 km
+[2025-10-03 00:53:00] Verifikacija - tura 462 ima estimated_km: 80
+[2025-10-03 00:53:01] Tura 461: parsovani kodovi: 213936, 213946
+[2025-10-03 00:53:01] Tura 461: pronađeno 0 objekata od 2 kodova
+[2025-10-03 00:53:01] Tura 461: nedostaju objekti: 213936, 213946
+[2025-10-03 00:53:01] Nije moguće izračunati kilometražu za turu 461 sa unloading_loc: TMO 213 936,TMO 213 946
+[2025-10-03 00:53:02] Tura 460: parsovani kodovi: 214004, 215059, 216321, 213136, 213772, 213652, 213647
+[2025-10-03 00:53:02] Tura 460: pronađeno 7 objekata od 7 kodova
+[2025-10-03 00:53:02] Tura 460: pronađeni objekti: 213 136, 213 647, 213 652, 213 772, 214 004, 215 059, 216 321
+[2025-10-03 00:53:02] Uspešno ažurirano za turu 460: 91 km
+[2025-10-03 00:53:02] Verifikacija - tura 460 ima estimated_km: 91
+[2025-10-03 00:53:03] Tura 463: nisu pronađeni validni kodovi u: Vojislava ilića 47, Kruševačka 22, Preševska 21, Đurićeva 5, Gospodara Vučića 1A
+[2025-10-03 00:53:03] Nije moguće izračunati kilometražu za turu 463 sa unloading_loc: Vojislava ilića 47, Kruševačka 22, Preševska 21, Đurićeva 5, Gospodara Vučića 1A
+[2025-10-03 00:53:04] Tura 455: parsovani kodovi: 213934
+[2025-10-03 00:53:04] Tura 455: pronađeno 0 objekata od 1 kodova
+[2025-10-03 00:53:04] Tura 455: nedostaju objekti: 213934
+[2025-10-03 00:53:04] Nije moguće izračunati kilometražu za turu 455 sa unloading_loc: TMO 213 934
+[2025-10-03 00:53:05] Tura 459: parsovani kodovi: 216248, 215152, 213179, 216381, 215024, 216223, 213630, 213631, 213672, 213128, 213129, 216606
+[2025-10-03 00:53:05] Tura 459: pronađeno 12 objekata od 12 kodova
+[2025-10-03 00:53:05] Tura 459: pronađeni objekti: 213 128, 213 129, 213 179, 213 630, 213 631, 213 672, 215 024, 215 152, 216 223, 216 248, 216 381, 216 606
+[2025-10-03 00:53:05] Uspešno ažurirano za turu 459: 133 km
+[2025-10-03 00:53:05] Verifikacija - tura 459 ima estimated_km: 133
+[2025-10-03 00:53:06] Tura 464: nisu pronađeni validni kodovi u: Vojvode Stepe 310A, Slavka Miljkovića 112
+[2025-10-03 00:53:06] Nije moguće izračunati kilometražu za turu 464 sa unloading_loc: Vojvode Stepe 310A, Slavka Miljkovića 112
+[2025-10-03 00:53:07] Tura 458: parsovani kodovi: 213666, 215100, 215031, 215073, 213635, 213628, 215109, 216242, 216382, 213183, 216505, 216890, 216680, 215382, 216676, 213653
+[2025-10-03 00:53:07] Tura 458: pronađeno 16 objekata od 16 kodova
+[2025-10-03 00:53:07] Tura 458: pronađeni objekti: 213 183, 213 628, 213 635, 213 653, 213 666, 215 031, 215 073, 215 100, 215 109, 215 382, 216 242, 216 382, 216 505, 216 676, 216 680, 216 890
+[2025-10-03 00:53:07] Uspešno ažurirano za turu 458: 129 km
+[2025-10-03 00:53:07] Verifikacija - tura 458 ima estimated_km: 129
+[2025-10-03 00:53:08] Tura 453: parsovani kodovi: 213657, 213757, 213137, 216456, 216671, 216670
+[2025-10-03 00:53:08] Tura 453: pronađeno 6 objekata od 6 kodova
+[2025-10-03 00:53:08] Tura 453: pronađeni objekti: 213 137, 213 657, 213 757, 216 456, 216 670, 216 671
+[2025-10-03 00:53:08] Uspešno ažurirano za turu 453: 132 km
+[2025-10-03 00:53:08] Verifikacija - tura 453 ima estimated_km: 132
+[2025-10-03 00:53:09] Tura 456: nisu pronađeni validni kodovi u: Zemun, Zvezdara, Mirijevo
+[2025-10-03 00:53:09] Nije moguće izračunati kilometražu za turu 456 sa unloading_loc: Zemun, Zvezdara, Mirijevo
+[2025-10-03 00:53:10] Tura 451: parsovani kodovi: 213199, 215355, 213175, 216234, 213679, 216762
+[2025-10-03 00:53:10] Tura 451: pronađeno 6 objekata od 6 kodova
+[2025-10-03 00:53:10] Tura 451: pronađeni objekti: 213 175, 213 199, 213 679, 215 355, 216 234, 216 762
+[2025-10-03 00:53:11] Uspešno ažurirano za turu 451: 111 km
+[2025-10-03 00:53:11] Verifikacija - tura 451 ima estimated_km: 111
+[2025-10-03 00:53:12] Tura 450: parsovani kodovi: 213639, 216322, 216240, 216332, 216204, 216534, 216984, 216327, 213184
+[2025-10-03 00:53:12] Tura 450: pronađeno 9 objekata od 9 kodova
+[2025-10-03 00:53:12] Tura 450: pronađeni objekti: 213 184, 213 639, 216 204, 216 240, 216 322, 216 327, 216 332, 216 534, 216 984
+[2025-10-03 00:53:12] Uspešno ažurirano za turu 450: 101 km
+[2025-10-03 00:53:12] Verifikacija - tura 450 ima estimated_km: 101
+[2025-10-03 00:53:13] Tura 448: parsovani kodovi: 213648, 216326, 213600, 215152, 213697, 213135, 213646
+[2025-10-03 00:53:13] Tura 448: pronađeno 7 objekata od 7 kodova
+[2025-10-03 00:53:13] Tura 448: pronađeni objekti: 213 135, 213 600, 213 646, 213 648, 213 697, 215 152, 216 326
+[2025-10-03 00:53:13] Uspešno ažurirano za turu 448: 184 km
+[2025-10-03 00:53:13] Verifikacija - tura 448 ima estimated_km: 184
+[2025-10-03 00:53:14] Tura 449: nisu pronađeni validni kodovi u: Bulevar Kralja Aleksandra, Južni Bulevar
+[2025-10-03 00:53:14] Nije moguće izračunati kilometražu za turu 449 sa unloading_loc: Bulevar Kralja Aleksandra, Južni Bulevar
+[2025-10-03 00:53:15] Tura 447: parsovani kodovi: 216211, 213149, 216222, 215109, 213194, 213114, 213151, 216890
+[2025-10-03 00:53:15] Tura 447: pronađeno 8 objekata od 8 kodova
+[2025-10-03 00:53:15] Tura 447: pronađeni objekti: 213 114, 213 149, 213 151, 213 194, 215 109, 216 211, 216 222, 216 890
+[2025-10-03 00:53:15] Uspešno ažurirano za turu 447: 109 km
+[2025-10-03 00:53:15] Verifikacija - tura 447 ima estimated_km: 109
+[2025-10-03 00:53:16] Tura 457: nisu pronađeni validni kodovi u: Ripanj
+[2025-10-03 00:53:16] Nije moguće izračunati kilometražu za turu 457 sa unloading_loc: Ripanj
+[2025-10-03 00:53:17] Tura 444: nisu pronađeni validni kodovi u: Resnik, Voždovac
+[2025-10-03 00:53:17] Nije moguće izračunati kilometražu za turu 444 sa unloading_loc: Resnik, Voždovac
+[2025-10-03 00:53:18] Tura 440: nisu pronađeni validni kodovi u: Sremčica, Barajevo
+[2025-10-03 00:53:18] Nije moguće izračunati kilometražu za turu 440 sa unloading_loc: Sremčica, Barajevo
+[2025-10-03 00:53:19] Tura 439: nisu pronađeni validni kodovi u: Voždove kapije
+[2025-10-03 00:53:19] Nije moguće izračunati kilometražu za turu 439 sa unloading_loc: Voždove kapije
+[2025-10-03 00:53:20] Tura 432: parsovani kodovi: 213934
+[2025-10-03 00:53:20] Tura 432: pronađeno 0 objekata od 1 kodova
+[2025-10-03 00:53:20] Tura 432: nedostaju objekti: 213934
+[2025-10-03 00:53:20] Nije moguće izračunati kilometražu za turu 432 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-10-03 00:53:21] Tura 427: parsovani kodovi: 213934
+[2025-10-03 00:53:21] Tura 427: pronađeno 0 objekata od 1 kodova
+[2025-10-03 00:53:21] Tura 427: nedostaju objekti: 213934
+[2025-10-03 00:53:21] Nije moguće izračunati kilometražu za turu 427 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-10-03 00:53:22] Tura 421: parsovani kodovi: 213946, 213936
+[2025-10-03 00:53:22] Tura 421: pronađeno 0 objekata od 2 kodova
+[2025-10-03 00:53:22] Tura 421: nedostaju objekti: 213946, 213936
+[2025-10-03 00:53:22] Nije moguće izračunati kilometražu za turu 421 sa unloading_loc: TMO 213 946,TMO 213 936
+[2025-10-03 00:53:23] Tura 418: parsovani kodovi: 213936, 213946
+[2025-10-03 00:53:23] Tura 418: pronađeno 0 objekata od 2 kodova
+[2025-10-03 00:53:23] Tura 418: nedostaju objekti: 213936, 213946
+[2025-10-03 00:53:23] Nije moguće izračunati kilometražu za turu 418 sa unloading_loc: TMO 213 936,TMO 213 946
+[2025-10-03 00:53:24] Tura 419: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-10-03 00:53:24] Nije moguće izračunati kilometražu za turu 419 sa unloading_loc: TMO 213 R45
+[2025-10-03 00:53:25] Tura 412: parsovani kodovi: 213934
+[2025-10-03 00:53:25] Tura 412: pronađeno 0 objekata od 1 kodova
+[2025-10-03 00:53:25] Tura 412: nedostaju objekti: 213934
+[2025-10-03 00:53:25] Nije moguće izračunati kilometražu za turu 412 sa unloading_loc: TMO 213 934
+[2025-10-03 00:53:26] Tura 413: parsovani kodovi: 213936, 213946
+[2025-10-03 00:53:26] Tura 413: pronađeno 0 objekata od 2 kodova
+[2025-10-03 00:53:26] Tura 413: nedostaju objekti: 213936, 213946
+[2025-10-03 00:53:26] Nije moguće izračunati kilometražu za turu 413 sa unloading_loc: TMO 213 936,TMO 213 946,TMO 213 R45
+[2025-10-03 00:53:27] Tura 407: parsovani kodovi: 213934
+[2025-10-03 00:53:27] Tura 407: pronađeno 0 objekata od 1 kodova
+[2025-10-03 00:53:27] Tura 407: nedostaju objekti: 213934
+[2025-10-03 00:53:27] Nije moguće izračunati kilometražu za turu 407 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-03 00:53:28] Tura 406: parsovani kodovi: 213934
+[2025-10-03 00:53:28] Tura 406: pronađeno 0 objekata od 1 kodova
+[2025-10-03 00:53:28] Tura 406: nedostaju objekti: 213934
+[2025-10-03 00:53:28] Nije moguće izračunati kilometražu za turu 406 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-03 00:53:29] Tura 398: parsovani kodovi: 213934
+[2025-10-03 00:53:29] Tura 398: pronađeno 0 objekata od 1 kodova
+[2025-10-03 00:53:29] Tura 398: nedostaju objekti: 213934
+[2025-10-03 00:53:29] Nije moguće izračunati kilometražu za turu 398 sa unloading_loc: TMO 213 934
+[2025-10-03 00:53:30] Tura 399: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-10-03 00:53:30] Nije moguće izračunati kilometražu za turu 399 sa unloading_loc: TMO 213 R45
+[2025-10-03 00:53:31] Tura 379: parsovani kodovi: 213934
+[2025-10-03 00:53:31] Tura 379: pronađeno 0 objekata od 1 kodova
+[2025-10-03 00:53:31] Tura 379: nedostaju objekti: 213934
+[2025-10-03 00:53:31] Nije moguće izračunati kilometražu za turu 379 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-10-03 00:53:32] Tura 346: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-10-03 00:53:32] Nije moguće izračunati kilometražu za turu 346 sa unloading_loc: TMO 213 AMP
+[2025-10-03 00:53:33] Tura 345: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-10-03 00:53:33] Nije moguće izračunati kilometražu za turu 345 sa unloading_loc: TMO 213 R45
+[2025-10-03 00:53:34] Tura 336: parsovani kodovi: 213934
+[2025-10-03 00:53:34] Tura 336: pronađeno 0 objekata od 1 kodova
+[2025-10-03 00:53:34] Tura 336: nedostaju objekti: 213934
+[2025-10-03 00:53:34] Nije moguće izračunati kilometražu za turu 336 sa unloading_loc: TMO 213 934
+[2025-10-03 00:53:35] Tura 338: nisu pronađeni validni kodovi u: Nova Pazova, NBG
+[2025-10-03 00:53:35] Nije moguće izračunati kilometražu za turu 338 sa unloading_loc: Nova Pazova, NBG
+[2025-10-03 00:53:36] Tura 452: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-10-03 00:53:36] Nije moguće izračunati kilometražu za turu 452 sa unloading_loc: TMO 213 AMP
+[2025-10-03 00:53:37] Tura 291: parsovani kodovi: 213934
+[2025-10-03 00:53:37] Tura 291: pronađeno 0 objekata od 1 kodova
+[2025-10-03 00:53:37] Tura 291: nedostaju objekti: 213934
+[2025-10-03 00:53:37] Nije moguće izračunati kilometražu za turu 291 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-03 00:53:38] Tura 296: nisu pronađeni validni kodovi u: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-10-03 00:53:38] Nije moguće izračunati kilometražu za turu 296 sa unloading_loc: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-10-03 00:53:39] Tura 252: parsovani kodovi: 213946, 213936
+[2025-10-03 00:53:39] Tura 252: pronađeno 0 objekata od 2 kodova
+[2025-10-03 00:53:39] Tura 252: nedostaju objekti: 213946, 213936
+[2025-10-03 00:53:39] Nije moguće izračunati kilometražu za turu 252 sa unloading_loc: TMO 213 946,TMO 213 936
+[2025-10-03 00:53:40] Tura 238: nisu pronađeni validni kodovi u: Požarevac
+[2025-10-03 00:53:40] Nije moguće izračunati kilometražu za turu 238 sa unloading_loc: Požarevac
+[2025-10-03 00:53:41] Ažuriranje završeno. Ukupno ažurirano: 32 tura
+[2025-10-12 15:26:22] Pokretanje ažuriranja procenjene kilometraže
+[2025-10-12 15:26:22] Kolona 'estimated_km' postoji u tabeli
+[2025-10-12 15:26:22] Ukupno tura u bazi: 438
+[2025-10-12 15:26:22] Tura sa unloading_loc: 434
+[2025-10-12 15:26:22] Tura bez estimated_km: 270
+[2025-10-12 15:26:22] Pronađeno je 84 tura za obradu
+[2025-10-12 15:26:22] Debug tura ID 539: estimated_km=0, unloading_loc length=11
+[2025-10-12 15:26:22] Debug tura ID 538: estimated_km=0, unloading_loc length=47
+[2025-10-12 15:26:22] Debug tura ID 540: estimated_km=0, unloading_loc length=59
+[2025-10-12 15:26:22] Tura 539: nisu pronađeni validni kodovi u: TMO 213 AMV
+[2025-10-12 15:26:22] Nije moguće izračunati kilometražu za turu 539 sa unloading_loc: TMO 213 AMV
+[2025-10-12 15:26:23] Tura 538: parsovani kodovi: 216873, 216440, 216782, 216502
+[2025-10-12 15:26:23] Tura 538: pronađeno 4 objekata od 4 kodova
+[2025-10-12 15:26:23] Tura 538: pronađeni objekti: 216 440, 216 502, 216 782, 216 873
+[2025-10-12 15:26:23] Uspešno ažurirano za turu 538: 57 km
+[2025-10-12 15:26:23] Verifikacija - tura 538 ima estimated_km: 57
+[2025-10-12 15:26:24] Tura 540: parsovani kodovi: 213603, 213605, 213604, 213609
+[2025-10-12 15:26:24] Tura 540: pronađeno 4 objekata od 4 kodova
+[2025-10-12 15:26:24] Tura 540: pronađeni objekti: 213 603, 213 604, 213 605, 213 609
+[2025-10-12 15:26:25] Uspešno ažurirano za turu 540: 118 km
+[2025-10-12 15:26:25] Verifikacija - tura 540 ima estimated_km: 118
+[2025-10-12 15:26:26] Tura 536: parsovani kodovi: 213121, 213744, 216490, 216608, 213613, 213219, 213196
+[2025-10-12 15:26:26] Tura 536: pronađeno 7 objekata od 7 kodova
+[2025-10-12 15:26:26] Tura 536: pronađeni objekti: 213 121, 213 196, 213 219, 213 613, 213 744, 216 490, 216 608
+[2025-10-12 15:26:26] Uspešno ažurirano za turu 536: 117 km
+[2025-10-12 15:26:26] Verifikacija - tura 536 ima estimated_km: 117
+[2025-10-12 15:26:27] Tura 537: parsovani kodovi: 216268, 216202, 216210, 216250, 215006, 215014, 216288, 213639, 215159, 216220, 215069, 216207, 213624, 215160, 213194, 216218, 213764
+[2025-10-12 15:26:27] Tura 537: pronađeno 17 objekata od 17 kodova
+[2025-10-12 15:26:27] Tura 537: pronađeni objekti: 213 194, 213 624, 213 639, 213 764, 215 006, 215 014, 215 069, 215 159, 215 160, 216 202, 216 207, 216 210, 216 218, 216 220, 216 250, 216 268, 216 288
+[2025-10-12 15:26:27] Uspešno ažurirano za turu 537: 125 km
+[2025-10-12 15:26:27] Verifikacija - tura 537 ima estimated_km: 125
+[2025-10-12 15:26:28] Tura 535: nisu pronađeni validni kodovi u: VULE MARKET SREMČICA, QVATTRO 50 IBARSKI PUT 86
+[2025-10-12 15:26:28] Nije moguće izračunati kilometražu za turu 535 sa unloading_loc: VULE MARKET SREMČICA, QVATTRO 50 IBARSKI PUT 86
+[2025-10-12 15:26:29] Tura 534: parsovani kodovi: 213634, 215047, 213149, 213722, 216204, 216304, 213195, 213194, 213624, 213651
+[2025-10-12 15:26:29] Tura 534: pronađeno 10 objekata od 10 kodova
+[2025-10-12 15:26:29] Tura 534: pronađeni objekti: 213 149, 213 194, 213 195, 213 624, 213 634, 213 651, 213 722, 215 047, 216 204, 216 304
+[2025-10-12 15:26:29] Uspešno ažurirano za turu 534: 106 km
+[2025-10-12 15:26:29] Verifikacija - tura 534 ima estimated_km: 106
+[2025-10-12 15:26:30] Tura 531: parsovani kodovi: 213773, 213188, 213627, 216961
+[2025-10-12 15:26:30] Tura 531: pronađeno 4 objekata od 4 kodova
+[2025-10-12 15:26:30] Tura 531: pronađeni objekti: 213 188, 213 627, 213 773, 216 961
+[2025-10-12 15:26:30] Uspešno ažurirano za turu 531: 101 km
+[2025-10-12 15:26:30] Verifikacija - tura 531 ima estimated_km: 101
+[2025-10-12 15:26:31] Tura 532: parsovani kodovi: 213934
+[2025-10-12 15:26:31] Tura 532: pronađeno 0 objekata od 1 kodova
+[2025-10-12 15:26:31] Tura 532: nedostaju objekti: 213934
+[2025-10-12 15:26:31] Nije moguće izračunati kilometražu za turu 532 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-12 15:26:32] Tura 533: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-10-12 15:26:32] Nije moguće izračunati kilometražu za turu 533 sa unloading_loc: TMO 213 AMP
+[2025-10-12 15:26:33] Tura 530: parsovani kodovi: 213292, 213121, 216488
+[2025-10-12 15:26:33] Tura 530: pronađeno 3 objekata od 3 kodova
+[2025-10-12 15:26:33] Tura 530: pronađeni objekti: 213 121, 213 292, 216 488
+[2025-10-12 15:26:34] Uspešno ažurirano za turu 530: 158 km
+[2025-10-12 15:26:34] Verifikacija - tura 530 ima estimated_km: 158
+[2025-10-12 15:26:35] Tura 529: parsovani kodovi: 215047, 216240, 216229, 216230, 216225, 213744, 213696, 213745, 213699
+[2025-10-12 15:26:35] Tura 529: pronađeno 9 objekata od 9 kodova
+[2025-10-12 15:26:35] Tura 529: pronađeni objekti: 213 696, 213 699, 213 744, 213 745, 215 047, 216 225, 216 229, 216 230, 216 240
+[2025-10-12 15:26:35] Uspešno ažurirano za turu 529: 93 km
+[2025-10-12 15:26:35] Verifikacija - tura 529 ima estimated_km: 93
+[2025-10-12 15:26:36] Tura 527: parsovani kodovi: 216678, 213131, 216493
+[2025-10-12 15:26:36] Tura 527: pronađeno 3 objekata od 3 kodova
+[2025-10-12 15:26:36] Tura 527: pronađeni objekti: 213 131, 216 493, 216 678
+[2025-10-12 15:26:36] Uspešno ažurirano za turu 527: 108 km
+[2025-10-12 15:26:36] Verifikacija - tura 527 ima estimated_km: 108
+[2025-10-12 15:26:37] Tura 528: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-10-12 15:26:37] Nije moguće izračunati kilometražu za turu 528 sa unloading_loc: TMO 213 AMP
+[2025-10-12 15:26:38] Tura 526: parsovani kodovi: 216457, 216456, 215110, 213766, 213140
+[2025-10-12 15:26:38] Tura 526: pronađeno 5 objekata od 5 kodova
+[2025-10-12 15:26:38] Tura 526: pronađeni objekti: 213 140, 213 766, 215 110, 216 456, 216 457
+[2025-10-12 15:26:38] Uspešno ažurirano za turu 526: 151 km
+[2025-10-12 15:26:38] Verifikacija - tura 526 ima estimated_km: 151
+[2025-10-12 15:26:39] Tura 524: parsovani kodovi: 213651, 216204, 216304, 213764, 213632, 215109, 216984, 213650, 213638, 213128, 213188, 213685
+[2025-10-12 15:26:39] Tura 524: pronađeno 12 objekata od 12 kodova
+[2025-10-12 15:26:39] Tura 524: pronađeni objekti: 213 128, 213 188, 213 632, 213 638, 213 650, 213 651, 213 685, 213 764, 215 109, 216 204, 216 304, 216 984
+[2025-10-12 15:26:39] Uspešno ažurirano za turu 524: 126 km
+[2025-10-12 15:26:39] Verifikacija - tura 524 ima estimated_km: 126
+[2025-10-12 15:26:40] Tura 525: parsovani kodovi: 216996, 216603, 213160, 213781, 213667, 213143, 215088
+[2025-10-12 15:26:40] Tura 525: pronađeno 7 objekata od 7 kodova
+[2025-10-12 15:26:40] Tura 525: pronađeni objekti: 213 143, 213 160, 213 667, 213 781, 215 088, 216 603, 216 996
+[2025-10-12 15:26:41] Uspešno ažurirano za turu 525: 155 km
+[2025-10-12 15:26:41] Verifikacija - tura 525 ima estimated_km: 155
+[2025-10-12 15:26:42] Tura 522: parsovani kodovi: 213198, 213159, 215110
+[2025-10-12 15:26:42] Tura 522: pronađeno 3 objekata od 3 kodova
+[2025-10-12 15:26:42] Tura 522: pronađeni objekti: 213 159, 213 198, 215 110
+[2025-10-12 15:26:42] Uspešno ažurirano za turu 522: 110 km
+[2025-10-12 15:26:42] Verifikacija - tura 522 ima estimated_km: 110
+[2025-10-12 15:26:43] Tura 523: parsovani kodovi: 215194, 213165, 213155
+[2025-10-12 15:26:43] Tura 523: pronađeno 3 objekata od 3 kodova
+[2025-10-12 15:26:43] Tura 523: pronađeni objekti: 213 155, 213 165, 215 194
+[2025-10-12 15:26:43] Uspešno ažurirano za turu 523: 119 km
+[2025-10-12 15:26:43] Verifikacija - tura 523 ima estimated_km: 119
+[2025-10-12 15:26:44] Tura 520: parsovani kodovi: 216241, 216223, 215136, 215024, 216381, 213128, 213188, 213630, 213631, 213672
+[2025-10-12 15:26:44] Tura 520: pronađeno 10 objekata od 10 kodova
+[2025-10-12 15:26:44] Tura 520: pronađeni objekti: 213 128, 213 188, 213 630, 213 631, 213 672, 215 024, 215 136, 216 223, 216 241, 216 381
+[2025-10-12 15:26:44] Uspešno ažurirano za turu 520: 107 km
+[2025-10-12 15:26:44] Verifikacija - tura 520 ima estimated_km: 107
+[2025-10-12 15:26:45] Tura 521: parsovani kodovi: 215088, 216750, 216925
+[2025-10-12 15:26:45] Tura 521: pronađeno 3 objekata od 3 kodova
+[2025-10-12 15:26:45] Tura 521: pronađeni objekti: 215 088, 216 750, 216 925
+[2025-10-12 15:26:45] Uspešno ažurirano za turu 521: 131 km
+[2025-10-12 15:26:45] Verifikacija - tura 521 ima estimated_km: 131
+[2025-10-12 15:26:46] Tura 515: parsovani kodovi: 213168
+[2025-10-12 15:26:46] Tura 515: pronađeno 1 objekata od 1 kodova
+[2025-10-12 15:26:46] Tura 515: pronađeni objekti: 213 168
+[2025-10-12 15:26:47] Uspešno ažurirano za turu 515: 108 km
+[2025-10-12 15:26:47] Verifikacija - tura 515 ima estimated_km: 108
+[2025-10-12 15:26:48] Tura 514: parsovani kodovi: 213792, 213771, 213137, 216456
+[2025-10-12 15:26:48] Tura 514: pronađeno 4 objekata od 4 kodova
+[2025-10-12 15:26:48] Tura 514: pronađeni objekti: 213 137, 213 771, 213 792, 216 456
+[2025-10-12 15:26:48] Uspešno ažurirano za turu 514: 117 km
+[2025-10-12 15:26:48] Verifikacija - tura 514 ima estimated_km: 117
+[2025-10-12 15:26:49] Tura 516: parsovani kodovi: 213934
+[2025-10-12 15:26:49] Tura 516: pronađeno 0 objekata od 1 kodova
+[2025-10-12 15:26:49] Tura 516: nedostaju objekti: 213934
+[2025-10-12 15:26:49] Nije moguće izračunati kilometražu za turu 516 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-12 15:26:50] Tura 517: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-10-12 15:26:50] Nije moguće izračunati kilometražu za turu 517 sa unloading_loc: TMO 213 AMP
+[2025-10-12 15:26:51] Tura 513: parsovani kodovi: 216485, 216490, 216608, 213613, 213219, 213196
+[2025-10-12 15:26:51] Tura 513: pronađeno 6 objekata od 6 kodova
+[2025-10-12 15:26:51] Tura 513: pronađeni objekti: 213 196, 213 219, 213 613, 216 485, 216 490, 216 608
+[2025-10-12 15:26:51] Uspešno ažurirano za turu 513: 114 km
+[2025-10-12 15:26:51] Verifikacija - tura 513 ima estimated_km: 114
+[2025-10-12 15:26:52] Tura 512: parsovani kodovi: 213629, 213635, 215070, 215073, 216334, 216217, 215288, 216221, 216222, 215083, 215066
+[2025-10-12 15:26:52] Tura 512: pronađeno 11 objekata od 11 kodova
+[2025-10-12 15:26:52] Tura 512: pronađeni objekti: 213 629, 213 635, 215 066, 215 070, 215 073, 215 083, 215 288, 216 217, 216 221, 216 222, 216 334
+[2025-10-12 15:26:52] Uspešno ažurirano za turu 512: 106 km
+[2025-10-12 15:26:52] Verifikacija - tura 512 ima estimated_km: 106
+[2025-10-12 15:26:53] Tura 509: parsovani kodovi: 216626, 213138, 216671, 213619, 213620, 215420, 216708, 216670
+[2025-10-12 15:26:53] Tura 509: pronađeno 8 objekata od 8 kodova
+[2025-10-12 15:26:53] Tura 509: pronađeni objekti: 213 138, 213 619, 213 620, 215 420, 216 626, 216 670, 216 671, 216 708
+[2025-10-12 15:26:53] Uspešno ažurirano za turu 509: 91 km
+[2025-10-12 15:26:53] Verifikacija - tura 509 ima estimated_km: 91
+[2025-10-12 15:26:54] Tura 511: parsovani kodovi: 213936, 213946
+[2025-10-12 15:26:54] Tura 511: pronađeno 0 objekata od 2 kodova
+[2025-10-12 15:26:54] Tura 511: nedostaju objekti: 213936, 213946
+[2025-10-12 15:26:54] Nije moguće izračunati kilometražu za turu 511 sa unloading_loc: TMO 213 936,TMO 213 946
+[2025-10-12 15:26:55] Tura 519: nisu pronađeni validni kodovi u: OBRENOVAC 6
+[2025-10-12 15:26:55] Nije moguće izračunati kilometražu za turu 519 sa unloading_loc: OBRENOVAC 6
+[2025-10-12 15:26:56] Tura 510: parsovani kodovi: 216266, 216210, 215014, 216201, 213195, 213764, 213636
+[2025-10-12 15:26:56] Tura 510: pronađeno 7 objekata od 7 kodova
+[2025-10-12 15:26:56] Tura 510: pronađeni objekti: 213 195, 213 636, 213 764, 215 014, 216 201, 216 210, 216 266
+[2025-10-12 15:26:56] Uspešno ažurirano za turu 510: 108 km
+[2025-10-12 15:26:56] Verifikacija - tura 510 ima estimated_km: 108
+[2025-10-12 15:26:57] Tura 508: parsovani kodovi: 216231, 213420, 216795, 216777
+[2025-10-12 15:26:58] Tura 508: pronađeno 4 objekata od 4 kodova
+[2025-10-12 15:26:58] Tura 508: pronađeni objekti: 213 420, 216 231, 216 777, 216 795
+[2025-10-12 15:26:58] Uspešno ažurirano za turu 508: 245 km
+[2025-10-12 15:26:58] Verifikacija - tura 508 ima estimated_km: 245
+[2025-10-12 15:26:59] Tura 506: parsovani kodovi: 213134, 213179
+[2025-10-12 15:26:59] Tura 506: pronađeno 2 objekata od 2 kodova
+[2025-10-12 15:26:59] Tura 506: pronađeni objekti: 213 134, 213 179
+[2025-10-12 15:26:59] Uspešno ažurirano za turu 506: 101 km
+[2025-10-12 15:26:59] Verifikacija - tura 506 ima estimated_km: 101
+[2025-10-12 15:27:00] Tura 507: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-10-12 15:27:00] Nije moguće izračunati kilometražu za turu 507 sa unloading_loc: TMO 213 AMP
+[2025-10-12 15:27:01] Tura 504: parsovani kodovi: 213769, 213178, 214001, 213653, 213783
+[2025-10-12 15:27:01] Tura 504: pronađeno 5 objekata od 5 kodova
+[2025-10-12 15:27:01] Tura 504: pronađeni objekti: 213 178, 213 653, 213 769, 213 783, 214 001
+[2025-10-12 15:27:01] Uspešno ažurirano za turu 504: 115 km
+[2025-10-12 15:27:01] Verifikacija - tura 504 ima estimated_km: 115
+[2025-10-12 15:27:02] Tura 505: parsovani kodovi: 213934, 213946, 213948, 213936
+[2025-10-12 15:27:02] Tura 505: pronađeno 0 objekata od 4 kodova
+[2025-10-12 15:27:02] Tura 505: nedostaju objekti: 213934, 213946, 213948, 213936
+[2025-10-12 15:27:02] Nije moguće izračunati kilometražu za turu 505 sa unloading_loc: TMO 213 R45,TMO 213 934,TMO 213 946,TMO 213 948,TMO 213 936
+[2025-10-12 15:27:03] Tura 518: nisu pronađeni validni kodovi u: LEDINE
+[2025-10-12 15:27:03] Nije moguće izračunati kilometražu za turu 518 sa unloading_loc: LEDINE
+[2025-10-12 15:27:04] Tura 502: parsovani kodovi: 213764, 215286, 213629, 215156, 213632
+[2025-10-12 15:27:04] Tura 502: pronađeno 5 objekata od 5 kodova
+[2025-10-12 15:27:04] Tura 502: pronađeni objekti: 213 629, 213 632, 213 764, 215 156, 215 286
+[2025-10-12 15:27:04] Uspešno ažurirano za turu 502: 91 km
+[2025-10-12 15:27:04] Verifikacija - tura 502 ima estimated_km: 91
+[2025-10-12 15:27:05] Tura 503: parsovani kodovi: 213744, 216490, 213196, 216608, 213613, 213219
+[2025-10-12 15:27:05] Tura 503: pronađeno 6 objekata od 6 kodova
+[2025-10-12 15:27:05] Tura 503: pronađeni objekti: 213 196, 213 219, 213 613, 213 744, 216 490, 216 608
+[2025-10-12 15:27:05] Uspešno ažurirano za turu 503: 117 km
+[2025-10-12 15:27:05] Verifikacija - tura 503 ima estimated_km: 117
+[2025-10-12 15:27:06] Tura 501: nisu pronađeni validni kodovi u: Obrenovac
+[2025-10-12 15:27:06] Nije moguće izračunati kilometražu za turu 501 sa unloading_loc: Obrenovac
+[2025-10-12 15:27:07] Tura 500: nisu pronađeni validni kodovi u: PADINSKA SKELA
+[2025-10-12 15:27:07] Nije moguće izračunati kilometražu za turu 500 sa unloading_loc: PADINSKA SKELA
+[2025-10-12 15:27:08] Tura 491: nisu pronađeni validni kodovi u: Ustanička, Mirijevo
+[2025-10-12 15:27:08] Nije moguće izračunati kilometražu za turu 491 sa unloading_loc: Ustanička, Mirijevo
+[2025-10-12 15:27:09] Tura 488: parsovani kodovi: 213934
+[2025-10-12 15:27:09] Tura 488: pronađeno 0 objekata od 1 kodova
+[2025-10-12 15:27:09] Tura 488: nedostaju objekti: 213934
+[2025-10-12 15:27:09] Nije moguće izračunati kilometražu za turu 488 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-12 15:27:10] Tura 485: nisu pronađeni validni kodovi u: Dorćol
+[2025-10-12 15:27:10] Nije moguće izračunati kilometražu za turu 485 sa unloading_loc: Dorćol
+[2025-10-12 15:27:11] Tura 484: nisu pronađeni validni kodovi u: Šabac
+[2025-10-12 15:27:11] Nije moguće izračunati kilometražu za turu 484 sa unloading_loc: Šabac
+[2025-10-12 15:27:12] Tura 494: nisu pronađeni validni kodovi u: Tadije Sondermajera 2G, Jurija Gagarina 28, Jurija Gagarina 277, Jurija Gagarina 259, Jurija Gagarina 187, Jurija Gagarina 14J, Jurija Gagarina 133, Jurija Gagarina 103
+[2025-10-12 15:27:12] Nije moguće izračunati kilometražu za turu 494 sa unloading_loc: Tadije Sondermajera 2G, Jurija Gagarina 28, Jurija Gagarina 277, Jurija Gagarina 259, Jurija Gagarina 187, Jurija Gagarina 14J, Jurija Gagarina 133, Jurija Gagarina 103
+[2025-10-12 15:27:13] Tura 541: nisu pronađeni validni kodovi u: BG - LOKAL
+[2025-10-12 15:27:13] Nije moguće izračunati kilometražu za turu 541 sa unloading_loc: BG - LOKAL
+[2025-10-12 15:27:14] Tura 478: parsovani kodovi: 213934
+[2025-10-12 15:27:14] Tura 478: pronađeno 0 objekata od 1 kodova
+[2025-10-12 15:27:14] Tura 478: nedostaju objekti: 213934
+[2025-10-12 15:27:14] Nije moguće izračunati kilometražu za turu 478 sa unloading_loc: TMO 213 934
+[2025-10-12 15:27:15] Tura 495: nisu pronađeni validni kodovi u: Tošin bunar 172, Pere Segedinca 13, Nehruova 49, Mileve Maric 58
+[2025-10-12 15:27:15] Nije moguće izračunati kilometražu za turu 495 sa unloading_loc: Tošin bunar 172, Pere Segedinca 13, Nehruova 49, Mileve Maric 58
+[2025-10-12 15:27:16] Tura 475: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-10-12 15:27:16] Nije moguće izračunati kilometražu za turu 475 sa unloading_loc: TMO 213 R45
+[2025-10-12 15:27:17] Tura 476: nisu pronađeni validni kodovi u: SVETOG SAVE 2,
+DECKA 8,
+NOVO NASELJE BB,
+TRG SV.NIKOLAJA 1,
+KRNJESEVACKA 6,
+KRNJESEVACKA 62,
+Trg Svetog Nikolaja 10а,
+KRNJESEVACKA 2
+
+[2025-10-12 15:27:17] Nije moguće izračunati kilometražu za turu 476 sa unloading_loc: SVETOG SAVE 2,
+DECKA 8,
+NOVO NASELJE BB,
+TRG SV.NIKOLAJA 1,
+KRNJESEVACKA 6,
+KRNJESEVACKA 62,
+Trg Svetog Nikolaja 10а,
+KRNJESEVACKA 2
+
+[2025-10-12 15:27:18] Tura 467: parsovani kodovi: 213934
+[2025-10-12 15:27:18] Tura 467: pronađeno 0 objekata od 1 kodova
+[2025-10-12 15:27:18] Tura 467: nedostaju objekti: 213934
+[2025-10-12 15:27:18] Nije moguće izračunati kilometražu za turu 467 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-12 15:27:19] Tura 468: nisu pronađeni validni kodovi u: Prvomajska 118C, Ćirila i Metodija 2, Antifašističke borbe 48
+[2025-10-12 15:27:19] Nije moguće izračunati kilometražu za turu 468 sa unloading_loc: Prvomajska 118C, Ćirila i Metodija 2, Antifašističke borbe 48
+[2025-10-12 15:27:20] Tura 461: parsovani kodovi: 213936, 213946
+[2025-10-12 15:27:20] Tura 461: pronađeno 0 objekata od 2 kodova
+[2025-10-12 15:27:20] Tura 461: nedostaju objekti: 213936, 213946
+[2025-10-12 15:27:20] Nije moguće izračunati kilometražu za turu 461 sa unloading_loc: TMO 213 936,TMO 213 946
+[2025-10-12 15:27:21] Tura 463: nisu pronađeni validni kodovi u: Vojislava ilića 47, Kruševačka 22, Preševska 21, Đurićeva 5, Gospodara Vučića 1A
+[2025-10-12 15:27:21] Nije moguće izračunati kilometražu za turu 463 sa unloading_loc: Vojislava ilića 47, Kruševačka 22, Preševska 21, Đurićeva 5, Gospodara Vučića 1A
+[2025-10-12 15:27:22] Tura 455: parsovani kodovi: 213934
+[2025-10-12 15:27:22] Tura 455: pronađeno 0 objekata od 1 kodova
+[2025-10-12 15:27:22] Tura 455: nedostaju objekti: 213934
+[2025-10-12 15:27:22] Nije moguće izračunati kilometražu za turu 455 sa unloading_loc: TMO 213 934
+[2025-10-12 15:27:23] Tura 464: nisu pronađeni validni kodovi u: Vojvode Stepe 310A, Slavka Miljkovića 112
+[2025-10-12 15:27:23] Nije moguće izračunati kilometražu za turu 464 sa unloading_loc: Vojvode Stepe 310A, Slavka Miljkovića 112
+[2025-10-12 15:27:24] Tura 456: nisu pronađeni validni kodovi u: Zemun, Zvezdara, Mirijevo
+[2025-10-12 15:27:24] Nije moguće izračunati kilometražu za turu 456 sa unloading_loc: Zemun, Zvezdara, Mirijevo
+[2025-10-12 15:27:25] Tura 449: nisu pronađeni validni kodovi u: Bulevar Kralja Aleksandra, Južni Bulevar
+[2025-10-12 15:27:25] Nije moguće izračunati kilometražu za turu 449 sa unloading_loc: Bulevar Kralja Aleksandra, Južni Bulevar
+[2025-10-12 15:27:26] Tura 457: nisu pronađeni validni kodovi u: Ripanj
+[2025-10-12 15:27:26] Nije moguće izračunati kilometražu za turu 457 sa unloading_loc: Ripanj
+[2025-10-12 15:27:27] Tura 444: nisu pronađeni validni kodovi u: Resnik, Voždovac
+[2025-10-12 15:27:27] Nije moguće izračunati kilometražu za turu 444 sa unloading_loc: Resnik, Voždovac
+[2025-10-12 15:27:28] Tura 440: nisu pronađeni validni kodovi u: Sremčica, Barajevo
+[2025-10-12 15:27:28] Nije moguće izračunati kilometražu za turu 440 sa unloading_loc: Sremčica, Barajevo
+[2025-10-12 15:27:29] Tura 439: nisu pronađeni validni kodovi u: Voždove kapije
+[2025-10-12 15:27:29] Nije moguće izračunati kilometražu za turu 439 sa unloading_loc: Voždove kapije
+[2025-10-12 15:27:30] Tura 432: parsovani kodovi: 213934
+[2025-10-12 15:27:30] Tura 432: pronađeno 0 objekata od 1 kodova
+[2025-10-12 15:27:30] Tura 432: nedostaju objekti: 213934
+[2025-10-12 15:27:30] Nije moguće izračunati kilometražu za turu 432 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-10-12 15:27:31] Tura 427: parsovani kodovi: 213934
+[2025-10-12 15:27:31] Tura 427: pronađeno 0 objekata od 1 kodova
+[2025-10-12 15:27:31] Tura 427: nedostaju objekti: 213934
+[2025-10-12 15:27:31] Nije moguće izračunati kilometražu za turu 427 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-10-12 15:27:32] Tura 421: parsovani kodovi: 213946, 213936
+[2025-10-12 15:27:32] Tura 421: pronađeno 0 objekata od 2 kodova
+[2025-10-12 15:27:32] Tura 421: nedostaju objekti: 213946, 213936
+[2025-10-12 15:27:32] Nije moguće izračunati kilometražu za turu 421 sa unloading_loc: TMO 213 946,TMO 213 936
+[2025-10-12 15:27:33] Tura 418: parsovani kodovi: 213936, 213946
+[2025-10-12 15:27:33] Tura 418: pronađeno 0 objekata od 2 kodova
+[2025-10-12 15:27:33] Tura 418: nedostaju objekti: 213936, 213946
+[2025-10-12 15:27:33] Nije moguće izračunati kilometražu za turu 418 sa unloading_loc: TMO 213 936,TMO 213 946
+[2025-10-12 15:27:34] Tura 419: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-10-12 15:27:34] Nije moguće izračunati kilometražu za turu 419 sa unloading_loc: TMO 213 R45
+[2025-10-12 15:27:35] Tura 412: parsovani kodovi: 213934
+[2025-10-12 15:27:36] Tura 412: pronađeno 0 objekata od 1 kodova
+[2025-10-12 15:27:36] Tura 412: nedostaju objekti: 213934
+[2025-10-12 15:27:36] Nije moguće izračunati kilometražu za turu 412 sa unloading_loc: TMO 213 934
+[2025-10-12 15:27:37] Tura 413: parsovani kodovi: 213936, 213946
+[2025-10-12 15:27:37] Tura 413: pronađeno 0 objekata od 2 kodova
+[2025-10-12 15:27:37] Tura 413: nedostaju objekti: 213936, 213946
+[2025-10-12 15:27:37] Nije moguće izračunati kilometražu za turu 413 sa unloading_loc: TMO 213 936,TMO 213 946,TMO 213 R45
+[2025-10-12 15:27:38] Tura 407: parsovani kodovi: 213934
+[2025-10-12 15:27:38] Tura 407: pronađeno 0 objekata od 1 kodova
+[2025-10-12 15:27:38] Tura 407: nedostaju objekti: 213934
+[2025-10-12 15:27:38] Nije moguće izračunati kilometražu za turu 407 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-12 15:27:39] Tura 406: parsovani kodovi: 213934
+[2025-10-12 15:27:39] Tura 406: pronađeno 0 objekata od 1 kodova
+[2025-10-12 15:27:39] Tura 406: nedostaju objekti: 213934
+[2025-10-12 15:27:39] Nije moguće izračunati kilometražu za turu 406 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-12 15:27:40] Tura 398: parsovani kodovi: 213934
+[2025-10-12 15:27:40] Tura 398: pronađeno 0 objekata od 1 kodova
+[2025-10-12 15:27:40] Tura 398: nedostaju objekti: 213934
+[2025-10-12 15:27:40] Nije moguće izračunati kilometražu za turu 398 sa unloading_loc: TMO 213 934
+[2025-10-12 15:27:41] Tura 399: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-10-12 15:27:41] Nije moguće izračunati kilometražu za turu 399 sa unloading_loc: TMO 213 R45
+[2025-10-12 15:27:42] Tura 379: parsovani kodovi: 213934
+[2025-10-12 15:27:42] Tura 379: pronađeno 0 objekata od 1 kodova
+[2025-10-12 15:27:42] Tura 379: nedostaju objekti: 213934
+[2025-10-12 15:27:42] Nije moguće izračunati kilometražu za turu 379 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-10-12 15:27:43] Tura 346: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-10-12 15:27:43] Nije moguće izračunati kilometražu za turu 346 sa unloading_loc: TMO 213 AMP
+[2025-10-12 15:27:44] Tura 345: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-10-12 15:27:44] Nije moguće izračunati kilometražu za turu 345 sa unloading_loc: TMO 213 R45
+[2025-10-12 15:27:45] Tura 336: parsovani kodovi: 213934
+[2025-10-12 15:27:45] Tura 336: pronađeno 0 objekata od 1 kodova
+[2025-10-12 15:27:45] Tura 336: nedostaju objekti: 213934
+[2025-10-12 15:27:45] Nije moguće izračunati kilometražu za turu 336 sa unloading_loc: TMO 213 934
+[2025-10-12 15:27:46] Tura 338: nisu pronađeni validni kodovi u: Nova Pazova, NBG
+[2025-10-12 15:27:46] Nije moguće izračunati kilometražu za turu 338 sa unloading_loc: Nova Pazova, NBG
+[2025-10-12 15:27:47] Tura 452: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-10-12 15:27:47] Nije moguće izračunati kilometražu za turu 452 sa unloading_loc: TMO 213 AMP
+[2025-10-12 15:27:48] Tura 291: parsovani kodovi: 213934
+[2025-10-12 15:27:48] Tura 291: pronađeno 0 objekata od 1 kodova
+[2025-10-12 15:27:48] Tura 291: nedostaju objekti: 213934
+[2025-10-12 15:27:48] Nije moguće izračunati kilometražu za turu 291 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-12 15:27:49] Tura 296: nisu pronađeni validni kodovi u: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-10-12 15:27:49] Nije moguće izračunati kilometražu za turu 296 sa unloading_loc: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-10-12 15:27:50] Tura 252: parsovani kodovi: 213946, 213936
+[2025-10-12 15:27:50] Tura 252: pronađeno 0 objekata od 2 kodova
+[2025-10-12 15:27:50] Tura 252: nedostaju objekti: 213946, 213936
+[2025-10-12 15:27:50] Nije moguće izračunati kilometražu za turu 252 sa unloading_loc: TMO 213 946,TMO 213 936
+[2025-10-12 15:27:51] Tura 238: nisu pronađeni validni kodovi u: Požarevac
+[2025-10-12 15:27:51] Nije moguće izračunati kilometražu za turu 238 sa unloading_loc: Požarevac
+[2025-10-12 15:27:52] Ažuriranje završeno. Ukupno ažurirano: 27 tura
+[2025-10-13 17:37:26] Pokretanje ažuriranja procenjene kilometraže
+[2025-10-13 17:37:26] Kolona 'estimated_km' postoji u tabeli
+[2025-10-13 17:37:26] Ukupno tura u bazi: 441
+[2025-10-13 17:37:26] Tura sa unloading_loc: 437
+[2025-10-13 17:37:26] Tura bez estimated_km: 246
+[2025-10-13 17:37:26] Pronađeno je 60 tura za obradu
+[2025-10-13 17:37:26] Debug tura ID 539: estimated_km=0, unloading_loc length=11
+[2025-10-13 17:37:26] Debug tura ID 542: estimated_km=0, unloading_loc length=71
+[2025-10-13 17:37:26] Debug tura ID 543: estimated_km=0, unloading_loc length=11
+[2025-10-13 17:37:26] Tura 539: nisu pronađeni validni kodovi u: TMO 213 AMV
+[2025-10-13 17:37:26] Nije moguće izračunati kilometražu za turu 539 sa unloading_loc: TMO 213 AMV
+[2025-10-13 17:37:27] Tura 542: parsovani kodovi: 213604, 213609, 213646, 215141, 213679
+[2025-10-13 17:37:27] Tura 542: pronađeno 5 objekata od 5 kodova
+[2025-10-13 17:37:27] Tura 542: pronađeni objekti: 213 604, 213 609, 213 646, 213 679, 215 141
+[2025-10-13 17:37:27] Uspešno ažurirano za turu 542: 190 km
+[2025-10-13 17:37:27] Verifikacija - tura 542 ima estimated_km: 190
+[2025-10-13 17:37:28] Tura 543: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-10-13 17:37:28] Nije moguće izračunati kilometražu za turu 543 sa unloading_loc: TMO 213 R45
+[2025-10-13 17:37:29] Tura 544: nisu pronađeni validni kodovi u: WOLT - Velimira Bate Živojinovića, Šumadija - Triše Kaclerovića 27A
+[2025-10-13 17:37:29] Nije moguće izračunati kilometražu za turu 544 sa unloading_loc: WOLT - Velimira Bate Živojinovića, Šumadija - Triše Kaclerovića 27A
+[2025-10-13 17:37:30] Tura 535: nisu pronađeni validni kodovi u: VULE MARKET SREMČICA, QVATTRO 50 IBARSKI PUT 86
+[2025-10-13 17:37:30] Nije moguće izračunati kilometražu za turu 535 sa unloading_loc: VULE MARKET SREMČICA, QVATTRO 50 IBARSKI PUT 86
+[2025-10-13 17:37:31] Tura 532: parsovani kodovi: 213934
+[2025-10-13 17:37:31] Tura 532: pronađeno 0 objekata od 1 kodova
+[2025-10-13 17:37:31] Tura 532: nedostaju objekti: 213934
+[2025-10-13 17:37:31] Nije moguće izračunati kilometražu za turu 532 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-13 17:37:32] Tura 533: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-10-13 17:37:32] Nije moguće izračunati kilometražu za turu 533 sa unloading_loc: TMO 213 AMP
+[2025-10-13 17:37:33] Tura 528: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-10-13 17:37:33] Nije moguće izračunati kilometražu za turu 528 sa unloading_loc: TMO 213 AMP
+[2025-10-13 17:37:34] Tura 516: parsovani kodovi: 213934
+[2025-10-13 17:37:34] Tura 516: pronađeno 0 objekata od 1 kodova
+[2025-10-13 17:37:34] Tura 516: nedostaju objekti: 213934
+[2025-10-13 17:37:34] Nije moguće izračunati kilometražu za turu 516 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-13 17:37:35] Tura 517: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-10-13 17:37:35] Nije moguće izračunati kilometražu za turu 517 sa unloading_loc: TMO 213 AMP
+[2025-10-13 17:37:36] Tura 511: parsovani kodovi: 213936, 213946
+[2025-10-13 17:37:36] Tura 511: pronađeno 0 objekata od 2 kodova
+[2025-10-13 17:37:36] Tura 511: nedostaju objekti: 213936, 213946
+[2025-10-13 17:37:36] Nije moguće izračunati kilometražu za turu 511 sa unloading_loc: TMO 213 936,TMO 213 946
+[2025-10-13 17:37:37] Tura 519: nisu pronađeni validni kodovi u: OBRENOVAC 6
+[2025-10-13 17:37:37] Nije moguće izračunati kilometražu za turu 519 sa unloading_loc: OBRENOVAC 6
+[2025-10-13 17:37:38] Tura 507: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-10-13 17:37:38] Nije moguće izračunati kilometražu za turu 507 sa unloading_loc: TMO 213 AMP
+[2025-10-13 17:37:39] Tura 505: parsovani kodovi: 213934, 213946, 213948, 213936
+[2025-10-13 17:37:39] Tura 505: pronađeno 0 objekata od 4 kodova
+[2025-10-13 17:37:39] Tura 505: nedostaju objekti: 213934, 213946, 213948, 213936
+[2025-10-13 17:37:39] Nije moguće izračunati kilometražu za turu 505 sa unloading_loc: TMO 213 R45,TMO 213 934,TMO 213 946,TMO 213 948,TMO 213 936
+[2025-10-13 17:37:40] Tura 518: nisu pronađeni validni kodovi u: LEDINE
+[2025-10-13 17:37:40] Nije moguće izračunati kilometražu za turu 518 sa unloading_loc: LEDINE
+[2025-10-13 17:37:41] Tura 501: nisu pronađeni validni kodovi u: Obrenovac
+[2025-10-13 17:37:41] Nije moguće izračunati kilometražu za turu 501 sa unloading_loc: Obrenovac
+[2025-10-13 17:37:42] Tura 500: nisu pronađeni validni kodovi u: PADINSKA SKELA
+[2025-10-13 17:37:42] Nije moguće izračunati kilometražu za turu 500 sa unloading_loc: PADINSKA SKELA
+[2025-10-13 17:37:43] Tura 491: nisu pronađeni validni kodovi u: Ustanička, Mirijevo
+[2025-10-13 17:37:43] Nije moguće izračunati kilometražu za turu 491 sa unloading_loc: Ustanička, Mirijevo
+[2025-10-13 17:37:44] Tura 488: parsovani kodovi: 213934
+[2025-10-13 17:37:44] Tura 488: pronađeno 0 objekata od 1 kodova
+[2025-10-13 17:37:44] Tura 488: nedostaju objekti: 213934
+[2025-10-13 17:37:44] Nije moguće izračunati kilometražu za turu 488 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-13 17:37:45] Tura 485: nisu pronađeni validni kodovi u: Dorćol
+[2025-10-13 17:37:45] Nije moguće izračunati kilometražu za turu 485 sa unloading_loc: Dorćol
+[2025-10-13 17:37:46] Tura 484: nisu pronađeni validni kodovi u: Šabac
+[2025-10-13 17:37:46] Nije moguće izračunati kilometražu za turu 484 sa unloading_loc: Šabac
+[2025-10-13 17:37:47] Tura 494: nisu pronađeni validni kodovi u: Tadije Sondermajera 2G, Jurija Gagarina 28, Jurija Gagarina 277, Jurija Gagarina 259, Jurija Gagarina 187, Jurija Gagarina 14J, Jurija Gagarina 133, Jurija Gagarina 103
+[2025-10-13 17:37:47] Nije moguće izračunati kilometražu za turu 494 sa unloading_loc: Tadije Sondermajera 2G, Jurija Gagarina 28, Jurija Gagarina 277, Jurija Gagarina 259, Jurija Gagarina 187, Jurija Gagarina 14J, Jurija Gagarina 133, Jurija Gagarina 103
+[2025-10-13 17:37:48] Tura 541: nisu pronađeni validni kodovi u: BG - LOKAL
+[2025-10-13 17:37:48] Nije moguće izračunati kilometražu za turu 541 sa unloading_loc: BG - LOKAL
+[2025-10-13 17:37:49] Tura 478: parsovani kodovi: 213934
+[2025-10-13 17:37:49] Tura 478: pronađeno 0 objekata od 1 kodova
+[2025-10-13 17:37:49] Tura 478: nedostaju objekti: 213934
+[2025-10-13 17:37:49] Nije moguće izračunati kilometražu za turu 478 sa unloading_loc: TMO 213 934
+[2025-10-13 17:37:50] Tura 495: nisu pronađeni validni kodovi u: Tošin bunar 172, Pere Segedinca 13, Nehruova 49, Mileve Maric 58
+[2025-10-13 17:37:50] Nije moguće izračunati kilometražu za turu 495 sa unloading_loc: Tošin bunar 172, Pere Segedinca 13, Nehruova 49, Mileve Maric 58
+[2025-10-13 17:37:51] Tura 475: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-10-13 17:37:51] Nije moguće izračunati kilometražu za turu 475 sa unloading_loc: TMO 213 R45
+[2025-10-13 17:37:52] Tura 476: nisu pronađeni validni kodovi u: SVETOG SAVE 2,
+DECKA 8,
+NOVO NASELJE BB,
+TRG SV.NIKOLAJA 1,
+KRNJESEVACKA 6,
+KRNJESEVACKA 62,
+Trg Svetog Nikolaja 10а,
+KRNJESEVACKA 2
+
+[2025-10-13 17:37:52] Nije moguće izračunati kilometražu za turu 476 sa unloading_loc: SVETOG SAVE 2,
+DECKA 8,
+NOVO NASELJE BB,
+TRG SV.NIKOLAJA 1,
+KRNJESEVACKA 6,
+KRNJESEVACKA 62,
+Trg Svetog Nikolaja 10а,
+KRNJESEVACKA 2
+
+[2025-10-13 17:37:53] Tura 467: parsovani kodovi: 213934
+[2025-10-13 17:37:53] Tura 467: pronađeno 0 objekata od 1 kodova
+[2025-10-13 17:37:53] Tura 467: nedostaju objekti: 213934
+[2025-10-13 17:37:53] Nije moguće izračunati kilometražu za turu 467 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-13 17:37:54] Tura 468: nisu pronađeni validni kodovi u: Prvomajska 118C, Ćirila i Metodija 2, Antifašističke borbe 48
+[2025-10-13 17:37:54] Nije moguće izračunati kilometražu za turu 468 sa unloading_loc: Prvomajska 118C, Ćirila i Metodija 2, Antifašističke borbe 48
+[2025-10-13 17:37:55] Tura 461: parsovani kodovi: 213936, 213946
+[2025-10-13 17:37:55] Tura 461: pronađeno 0 objekata od 2 kodova
+[2025-10-13 17:37:55] Tura 461: nedostaju objekti: 213936, 213946
+[2025-10-13 17:37:55] Nije moguće izračunati kilometražu za turu 461 sa unloading_loc: TMO 213 936,TMO 213 946
+[2025-10-13 17:37:56] Tura 463: nisu pronađeni validni kodovi u: Vojislava ilića 47, Kruševačka 22, Preševska 21, Đurićeva 5, Gospodara Vučića 1A
+[2025-10-13 17:37:56] Nije moguće izračunati kilometražu za turu 463 sa unloading_loc: Vojislava ilića 47, Kruševačka 22, Preševska 21, Đurićeva 5, Gospodara Vučića 1A
+[2025-10-13 17:37:57] Tura 455: parsovani kodovi: 213934
+[2025-10-13 17:37:57] Tura 455: pronađeno 0 objekata od 1 kodova
+[2025-10-13 17:37:57] Tura 455: nedostaju objekti: 213934
+[2025-10-13 17:37:57] Nije moguće izračunati kilometražu za turu 455 sa unloading_loc: TMO 213 934
+[2025-10-13 17:37:58] Tura 464: nisu pronađeni validni kodovi u: Vojvode Stepe 310A, Slavka Miljkovića 112
+[2025-10-13 17:37:58] Nije moguće izračunati kilometražu za turu 464 sa unloading_loc: Vojvode Stepe 310A, Slavka Miljkovića 112
+[2025-10-13 17:37:59] Tura 456: nisu pronađeni validni kodovi u: Zemun, Zvezdara, Mirijevo
+[2025-10-13 17:37:59] Nije moguće izračunati kilometražu za turu 456 sa unloading_loc: Zemun, Zvezdara, Mirijevo
+[2025-10-13 17:38:00] Tura 449: nisu pronađeni validni kodovi u: Bulevar Kralja Aleksandra, Južni Bulevar
+[2025-10-13 17:38:00] Nije moguće izračunati kilometražu za turu 449 sa unloading_loc: Bulevar Kralja Aleksandra, Južni Bulevar
+[2025-10-13 17:38:01] Tura 457: nisu pronađeni validni kodovi u: Ripanj
+[2025-10-13 17:38:01] Nije moguće izračunati kilometražu za turu 457 sa unloading_loc: Ripanj
+[2025-10-13 17:38:02] Tura 444: nisu pronađeni validni kodovi u: Resnik, Voždovac
+[2025-10-13 17:38:02] Nije moguće izračunati kilometražu za turu 444 sa unloading_loc: Resnik, Voždovac
+[2025-10-13 17:38:03] Tura 440: nisu pronađeni validni kodovi u: Sremčica, Barajevo
+[2025-10-13 17:38:03] Nije moguće izračunati kilometražu za turu 440 sa unloading_loc: Sremčica, Barajevo
+[2025-10-13 17:38:04] Tura 439: nisu pronađeni validni kodovi u: Voždove kapije
+[2025-10-13 17:38:04] Nije moguće izračunati kilometražu za turu 439 sa unloading_loc: Voždove kapije
+[2025-10-13 17:38:05] Tura 432: parsovani kodovi: 213934
+[2025-10-13 17:38:05] Tura 432: pronađeno 0 objekata od 1 kodova
+[2025-10-13 17:38:05] Tura 432: nedostaju objekti: 213934
+[2025-10-13 17:38:05] Nije moguće izračunati kilometražu za turu 432 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-10-13 17:38:06] Tura 427: parsovani kodovi: 213934
+[2025-10-13 17:38:06] Tura 427: pronađeno 0 objekata od 1 kodova
+[2025-10-13 17:38:06] Tura 427: nedostaju objekti: 213934
+[2025-10-13 17:38:06] Nije moguće izračunati kilometražu za turu 427 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-10-13 17:38:07] Tura 421: parsovani kodovi: 213946, 213936
+[2025-10-13 17:38:07] Tura 421: pronađeno 0 objekata od 2 kodova
+[2025-10-13 17:38:07] Tura 421: nedostaju objekti: 213946, 213936
+[2025-10-13 17:38:07] Nije moguće izračunati kilometražu za turu 421 sa unloading_loc: TMO 213 946,TMO 213 936
+[2025-10-13 17:38:08] Tura 418: parsovani kodovi: 213936, 213946
+[2025-10-13 17:38:08] Tura 418: pronađeno 0 objekata od 2 kodova
+[2025-10-13 17:38:08] Tura 418: nedostaju objekti: 213936, 213946
+[2025-10-13 17:38:08] Nije moguće izračunati kilometražu za turu 418 sa unloading_loc: TMO 213 936,TMO 213 946
+[2025-10-13 17:38:09] Tura 419: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-10-13 17:38:09] Nije moguće izračunati kilometražu za turu 419 sa unloading_loc: TMO 213 R45
+[2025-10-13 17:38:10] Tura 412: parsovani kodovi: 213934
+[2025-10-13 17:38:10] Tura 412: pronađeno 0 objekata od 1 kodova
+[2025-10-13 17:38:10] Tura 412: nedostaju objekti: 213934
+[2025-10-13 17:38:10] Nije moguće izračunati kilometražu za turu 412 sa unloading_loc: TMO 213 934
+[2025-10-13 17:38:11] Tura 413: parsovani kodovi: 213936, 213946
+[2025-10-13 17:38:11] Tura 413: pronađeno 0 objekata od 2 kodova
+[2025-10-13 17:38:11] Tura 413: nedostaju objekti: 213936, 213946
+[2025-10-13 17:38:11] Nije moguće izračunati kilometražu za turu 413 sa unloading_loc: TMO 213 936,TMO 213 946,TMO 213 R45
+[2025-10-13 17:38:12] Tura 407: parsovani kodovi: 213934
+[2025-10-13 17:38:12] Tura 407: pronađeno 0 objekata od 1 kodova
+[2025-10-13 17:38:12] Tura 407: nedostaju objekti: 213934
+[2025-10-13 17:38:12] Nije moguće izračunati kilometražu za turu 407 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-13 17:38:13] Tura 406: parsovani kodovi: 213934
+[2025-10-13 17:38:13] Tura 406: pronađeno 0 objekata od 1 kodova
+[2025-10-13 17:38:13] Tura 406: nedostaju objekti: 213934
+[2025-10-13 17:38:13] Nije moguće izračunati kilometražu za turu 406 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-13 17:38:14] Tura 398: parsovani kodovi: 213934
+[2025-10-13 17:38:14] Tura 398: pronađeno 0 objekata od 1 kodova
+[2025-10-13 17:38:14] Tura 398: nedostaju objekti: 213934
+[2025-10-13 17:38:14] Nije moguće izračunati kilometražu za turu 398 sa unloading_loc: TMO 213 934
+[2025-10-13 17:38:15] Tura 399: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-10-13 17:38:15] Nije moguće izračunati kilometražu za turu 399 sa unloading_loc: TMO 213 R45
+[2025-10-13 17:38:16] Tura 379: parsovani kodovi: 213934
+[2025-10-13 17:38:16] Tura 379: pronađeno 0 objekata od 1 kodova
+[2025-10-13 17:38:16] Tura 379: nedostaju objekti: 213934
+[2025-10-13 17:38:16] Nije moguće izračunati kilometražu za turu 379 sa unloading_loc: TMO 213 R45,TMO 213 934
+[2025-10-13 17:38:17] Tura 346: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-10-13 17:38:17] Nije moguće izračunati kilometražu za turu 346 sa unloading_loc: TMO 213 AMP
+[2025-10-13 17:38:18] Tura 345: nisu pronađeni validni kodovi u: TMO 213 R45
+[2025-10-13 17:38:18] Nije moguće izračunati kilometražu za turu 345 sa unloading_loc: TMO 213 R45
+[2025-10-13 17:38:19] Tura 336: parsovani kodovi: 213934
+[2025-10-13 17:38:19] Tura 336: pronađeno 0 objekata od 1 kodova
+[2025-10-13 17:38:19] Tura 336: nedostaju objekti: 213934
+[2025-10-13 17:38:19] Nije moguće izračunati kilometražu za turu 336 sa unloading_loc: TMO 213 934
+[2025-10-13 17:38:20] Tura 338: nisu pronađeni validni kodovi u: Nova Pazova, NBG
+[2025-10-13 17:38:20] Nije moguće izračunati kilometražu za turu 338 sa unloading_loc: Nova Pazova, NBG
+[2025-10-13 17:38:21] Tura 452: nisu pronađeni validni kodovi u: TMO 213 AMP
+[2025-10-13 17:38:21] Nije moguće izračunati kilometražu za turu 452 sa unloading_loc: TMO 213 AMP
+[2025-10-13 17:38:22] Tura 291: parsovani kodovi: 213934
+[2025-10-13 17:38:22] Tura 291: pronađeno 0 objekata od 1 kodova
+[2025-10-13 17:38:22] Tura 291: nedostaju objekti: 213934
+[2025-10-13 17:38:22] Nije moguće izračunati kilometražu za turu 291 sa unloading_loc: TMO 213 934,TMO 213 R45
+[2025-10-13 17:38:23] Tura 296: nisu pronađeni validni kodovi u: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-10-13 17:38:23] Nije moguće izračunati kilometražu za turu 296 sa unloading_loc: Maxi134,Maxi130,Maxi143,Maxi145,Maxi131,Maxi781
+[2025-10-13 17:38:24] Tura 252: parsovani kodovi: 213946, 213936
+[2025-10-13 17:38:24] Tura 252: pronađeno 0 objekata od 2 kodova
+[2025-10-13 17:38:24] Tura 252: nedostaju objekti: 213946, 213936
+[2025-10-13 17:38:24] Nije moguće izračunati kilometražu za turu 252 sa unloading_loc: TMO 213 946,TMO 213 936
+[2025-10-13 17:38:25] Tura 238: nisu pronađeni validni kodovi u: Požarevac
+[2025-10-13 17:38:25] Nije moguće izračunati kilometražu za turu 238 sa unloading_loc: Požarevac
+[2025-10-13 17:38:26] Ažuriranje završeno. Ukupno ažurirano: 1 tura
